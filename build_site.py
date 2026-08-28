@@ -8,6 +8,7 @@ import markdown
 
 ROOT = Path(__file__).resolve().parent
 REPORTS_DIR = ROOT / "reports"
+SELECT_DIR = ROOT / "select"
 SITE_DIR = ROOT / "_site"
 
 PAGE_CSS = """
@@ -38,6 +39,7 @@ INDEX_CSS = """
 body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; line-height: 1.6; color: #24292f; max-width: 960px; margin: 0 auto; padding: 2rem 1rem; background: #fff; }
 h1 { font-size: 1.8rem; border-bottom: 1px solid #d0d7de; padding-bottom: 0.5rem; margin-bottom: 1.5rem; }
 h2 { font-size: 1.3rem; margin: 1.5rem 0 0.8rem; color: #1f2328; }
+h3 { font-size: 1.05rem; margin: 1rem 0 0.5rem; color: #24292f; }
 a { color: #0969da; text-decoration: none; }
 a:hover { text-decoration: underline; }
 .report-list { list-style: none; }
@@ -65,6 +67,14 @@ def render_page(title: str, body_html: str, back_href: str) -> str:
 """
 
 
+def convert_markdown_file(md: markdown.Markdown, md_file: Path) -> tuple[str, str]:
+    text = md_file.read_text(encoding="utf-8")
+    first_line = text.strip().splitlines()[0] if text.strip() else ""
+    title = re.sub(r"^#+\s*", "", first_line).strip() or md_file.stem
+    md.reset()
+    return title, md.convert(text)
+
+
 def main() -> None:
     md = markdown.Markdown(extensions=["tables", "fenced_code", "sane_lists"])
     SITE_DIR.mkdir(exist_ok=True)
@@ -76,12 +86,7 @@ def main() -> None:
         stock = stock_dir.name
         entries = []
         for md_file in sorted(stock_dir.glob("*.md")):
-            text = md_file.read_text(encoding="utf-8")
-            first_line = text.strip().splitlines()[0] if text.strip() else ""
-            title = re.sub(r"^#+\s*", "", first_line).strip() or md_file.stem
-
-            md.reset()
-            body_html = md.convert(text)
+            title, body_html = convert_markdown_file(md, md_file)
             out_dir = SITE_DIR / "reports" / stock
             out_dir.mkdir(parents=True, exist_ok=True)
             out_file = out_dir / f"{md_file.stem}.html"
@@ -90,9 +95,27 @@ def main() -> None:
 
         groups[stock] = entries
 
+    select_entries: list[tuple[str, str]] = []
+    if SELECT_DIR.is_dir():
+        for md_file in sorted(SELECT_DIR.glob("*.md")):
+            title, body_html = convert_markdown_file(md, md_file)
+            out_dir = SITE_DIR / "select"
+            out_dir.mkdir(parents=True, exist_ok=True)
+            out_file = out_dir / f"{md_file.stem}.html"
+            out_file.write_text(render_page(title, body_html, "../index.html"), encoding="utf-8")
+            select_entries.append((title, f"select/{md_file.stem}.html"))
+
     sections = []
+    if select_entries:
+        sections.append("<h2>选股结果</h2>")
+        sections.append('<ul class="report-list">')
+        for title, href in select_entries:
+            sections.append(f'<li><a href="{html.escape(href)}">{html.escape(title)}</a></li>')
+        sections.append("</ul>")
+
+    sections.append("<h2>个股分析报告</h2>")
     for stock in sorted(groups):
-        sections.append(f"<h2>{html.escape(stock)}</h2>")
+        sections.append(f"<h3>{html.escape(stock)}</h3>")
         sections.append('<ul class="report-list">')
         for title, href in groups[stock]:
             sections.append(f'<li><a href="{html.escape(href)}">{html.escape(title)}</a></li>')
@@ -118,7 +141,7 @@ def main() -> None:
 </html>
 """
     (SITE_DIR / "index.html").write_text(index_html, encoding="utf-8")
-    print(f"Built {len(groups)} stock groups into {SITE_DIR}")
+    print(f"Built {len(groups)} stock groups and {len(select_entries)} select files into {SITE_DIR}")
 
 
 if __name__ == "__main__":
