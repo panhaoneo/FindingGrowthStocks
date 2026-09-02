@@ -24,6 +24,7 @@ jobs:
 
       - name: Build site
         run: |
+          python3 fix_markdown_tables.py
           pip install markdown
           python3 build_site.py
 
