@@ -52,6 +52,21 @@ footer { margin-top: 3rem; padding-top: 1rem; border-top: 1px solid #d0d7de; col
 .methodology ol { margin: 0; padding-left: 1.4rem; }
 .methodology li { margin: 0.35rem 0; }
 .methodology .attr { margin: 0.6rem 0 0; color: #656d76; font-size: 0.9rem; text-align: right; }
+.pin-note { border: 1px solid #d4a72c; border-left: 4px solid #b8860b; background: #fffdf3; border-radius: 6px; padding: 1rem 1.25rem; margin: 1.5rem 0; }
+.pin-note p { margin: 0.4rem 0; }
+.pin-note .pin-title { font-weight: 600; color: #7a5c00; margin-top: 0; }
+.pin-note .pin-attr { margin: 0.6rem 0 0; color: #8a6d1a; font-size: 0.9rem; text-align: right; }
+"""
+
+PIN_NOTE = """
+<div class="pin-note">
+<p class="pin-title">◆ 中报读后：三大方向，翻倍以上空间</p>
+<p>中报预告读至今日，现在看有三个方向是可以看到翻倍以上的空间的：</p>
+<p><strong>1、AI 泛科技</strong>：本轮 AI 泛科技伴随指数开展中期调整后，产业链中依然存在供需矛盾，严重供不应求，持续涨价放量的可持续性标的（AI 大基建中依然卡脖子环节和产业链新秀）。</p>
+<p><strong>2、创新药、CXO，以及部分已经走出医保政策影响，开始新品放量上市、价格持续恢复、出口持续旺盛的医疗器械、医药行业</strong>。</p>
+<p><strong>3、大消费、新消费行业中的业绩开始拐头向上，具有带领性、带动效应的行业 α</strong>。</p>
+<p>这三个行业是非常明确的：AI 在高位，但基本面景气不变（筹码博弈波动变大），依然会出现新的产业链机会；创新药和大消费逐渐走出下行周期，部分 α 一定会在未来 2-5 年走出 10 倍效应，拭目以待。</p>
+</div>
 """
 
 
@@ -103,7 +118,18 @@ def main() -> None:
     select_entries: list[tuple[str, str]] = []
     if SELECT_DIR.is_dir():
         for md_file in sorted(SELECT_DIR.glob("*.md")):
-            title, body_html = convert_markdown_file(md, md_file)
+            text = md_file.read_text(encoding="utf-8")
+            first_line = text.strip().splitlines()[0] if text.strip() else ""
+            title = re.sub(r"^#+\s*", "", first_line).strip() or md_file.stem
+            if "选股结果分类" in title:
+                lines = text.splitlines()
+                head = "\n".join(lines[:2]) + "\n"
+                rest = "\n".join(lines[2:])
+                md.reset()
+                body_html = md.convert(head) + PIN_NOTE + md.convert(rest)
+            else:
+                md.reset()
+                body_html = md.convert(text)
             out_dir = SITE_DIR / "select"
             out_dir.mkdir(parents=True, exist_ok=True)
             out_file = out_dir / f"{md_file.stem}.html"
