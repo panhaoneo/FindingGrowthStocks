@@ -123,8 +123,12 @@ def main() -> None:
             title = re.sub(r"^#+\s*", "", first_line).strip() or md_file.stem
             if "选股结果分类" in title:
                 lines = text.splitlines()
-                head = "\n".join(lines[:2]) + "\n"
-                rest = "\n".join(lines[2:])
+                head_end = 1
+                while head_end < len(lines) and lines[head_end].strip() == "":
+                    head_end += 1
+                head_end = min(head_end + 1, len(lines))
+                head = "\n".join(lines[:head_end]) + "\n"
+                rest = "\n".join(lines[head_end:])
                 md.reset()
                 body_html = md.convert(head) + PIN_NOTE + md.convert(rest)
             else:
