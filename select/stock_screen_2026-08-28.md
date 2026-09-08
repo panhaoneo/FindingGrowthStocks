@@ -51,7 +51,7 @@
 | 45 | 000990.SZ | 诚志股份 | 1416.23% | 6.61 | +1.85% | 14,208 | 113.8 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-13/1225470294.PDF) | 招股书PDF |
 | 46 | 600395.SH | 盘江股份 | 1344.48% | 5.68 | +0.18% | 9,528 | 123.2 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-22/1225490204.PDF) | 招股书PDF |
 | 47 | 300358.SZ | 楚天科技 | 1280.71% | 9.10 | -0.87% | 14,609 | 64.1 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-25/1225495623.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2014-01-08/63464595.PDF) |
-| 48 | 000036.SZ | 华联控股 | 1260.83% | 4.11 | -0.48% | 5,668 | 57.9 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-28/1225517168.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2003-06-30/10747925.html) |
+| 48 | 000036.SZ | 华联控股 | 1260.83% | 4.11 | -0.48% | 5,668 | 57.9 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-28/1225517168.PDF) | 招股书PDF |
 | 49 | 001313.SZ | 粤海饲料 | 1240.46% | 8.14 | +1.62% | 7,129 | 57.3 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-26/1225502976.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2022-01-26/1212278277.PDF) |
 | 50 | 605189.SH | 富春染织 | 1238.07% | 15.07 | +0.33% | 10,503 | 35.6 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-28/1225519275.PDF) | 招股书PDF |
 | 51 | 603980.SH | 吉华集团 | 1235.47% | 6.97 | +2.20% | 14,132 | 47.2 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-28/1225516653.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2017-06-02/1203580217.PDF) |
@@ -100,7 +100,7 @@
 | 94 | 300741.SZ | 华宝股份 | 720.09% | 14.06 | +1.15% | 2,059 | 86.5 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-27/1225513239.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2018-02-12/1204411997.PDF) |
 | 95 | 300676.SZ | 华大基因 | 718.24% | 39.68 | -2.70% | 23,086 | 164.4 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-22/1225492096.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2017-07-04/1203678082.PDF) |
 | 96 | 001258.SZ | 立新能源 | 715.75% | 13.59 | -1.24% | 80,259 | 124.6 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-10/1225464861.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2022-07-12/1214008785.PDF) |
-| 97 | 600116.SH | 三峡水利 | 688.61% | 6.27 | -0.63% | 2,924 | 121.0 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-21/1225485033.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/1997-07-23/148961.html) |
+| 97 | 600116.SH | 三峡水利 | 688.61% | 6.27 | -0.63% | 2,924 | 121.0 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-21/1225485033.PDF) | 招股书PDF |
 | 98 | 000889.SZ | 中嘉博创 | 684.63% | 4.02 | -0.50% | 6,344 | 35.0 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-25/1225495495.PDF) | 招股书PDF |
 | 99 | 601388.SH | 怡球资源 | 667.13% | 3.56 | -0.84% | 12,896 | 79.2 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-25/1225495085.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2012-04-20/60864609.PDF) |
 | 100 | 002414.SZ | 高德红外 | 646.81% | 12.86 | -0.69% | 43,898 | 437.7 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-26/1225502851.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2010-07-02/58123502.PDF) |
@@ -126,7 +126,7 @@
 | 120 | 301217.SZ | 铜冠铜箔 | 514.75% | 114.86 | +0.29% | 270,558 | 947.6 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-27/1225509625.PDF) | 招股书PDF |
 | 121 | 301091.SZ | 深城交 | 510.08% | 18.18 | -0.55% | 3,537 | 96.5 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-07/1225462551.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2021-10-22/1211347601.PDF) |
 | 122 | 600768.SH | 富邦新材 | 504.48% | 15.14 | +0.07% | 1,830 | 20.6 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-11/1225466283.PDF) | 招股书PDF |
-| 123 | 000599.SZ | 青岛双星 | 503.71% | 4.74 | +0.21% | 1,528 | 39.0 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-14/1225472611.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/1996-04-03/60429.html) |
+| 123 | 000599.SZ | 青岛双星 | 503.71% | 4.74 | +0.21% | 1,528 | 39.0 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-14/1225472611.PDF) | 招股书PDF |
 | 124 | 603162.SH | 海通发展 | 502.60% | 12.75 | +6.61% | 38,078 | 53.6 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-07-21/1225431697.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2023-02-23/1215940809.PDF) |
 | 125 | 002378.SZ | 章源钨业 | 497.38% | 25.67 | -0.93% | 34,394 | 308.7 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-25/1225494558.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2010-03-18/57700308.PDF) |
 | 126 | 301099.SZ | 雅创电子 | 495.76% | 51.71 | -0.88% | 21,740 | 58.7 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-25/1225499968.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2021-11-12/1211562054.PDF) |
@@ -190,7 +190,7 @@
 | 184 | 603608.SH | 天创时尚 | 316.20% | 19.21 | +7.26% | 33,893 | 83.7 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-22/1225490339.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2016-01-29/1201953332.PDF) |
 | 185 | 002310.SZ | 东方新能 | 316.04% | 2.36 | +0.00% | 5,776 | 104.7 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-27/1225511077.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2009-11-17/57298394.PDF) |
 | 186 | 300642.SZ | 透景生命 | 315.92% | 19.46 | +12.49% | 62,099 | 25.8 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-25/1225499198.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2017-04-10/1203264365.PDF) |
-| 187 | 601069.SH | 西部黄金 | 315.67% | 31.42 | +2.31% | 68,310 | 276.5 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-25/1225494335.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2015-01-13/1200540481.PDF) |
+| 187 | 601069.SH | 西部黄金 | 315.67% | 31.42 | +2.31% | 68,310 | 276.5 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-25/1225494335.PDF) | 招股书PDF |
 | 188 | 301090.SZ | 华润材料 | 308.51% | 7.15 | +2.73% | 5,236 | 105.9 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-25/1225495514.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2021-10-21/1211339369.PDF) |
 | 189 | 301500.SZ | 飞南资源 | 307.31% | 24.02 | +1.56% | 14,866 | 34.5 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-20/1225481345.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2023-09-15/1217858591.PDF) |
 | 190 | 605208.SH | 永茂泰 | 306.94% | 14.25 | -0.28% | 3,186 | 47.4 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-21/1225485418.PDF) | 招股书PDF |
@@ -206,7 +206,7 @@
 | 200 | 300135.SZ | 宝利国际 | 288.64% | 3.57 | +1.13% | 3,653 | 33.1 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-22/1225489348.PDF) | 招股书PDF |
 | 201 | 601233.SH | 桐昆股份 | 285.03% | 27.03 | +3.96% | 131,074 | 655.2 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-26/1225505253.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2011-05-17/59437032.PDF) |
 | 202 | 002136.SZ | 安纳达 | 285.03% | 12.61 | +0.16% | 1,926 | 27.2 | 财报PDF | 招股书PDF |
-| 203 | 600692.SH | 亚通股份 | 284.04% | 6.48 | +0.62% | 2,123 | 16.7 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-26/1225502305.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/1993-08-06/148804.html) |
+| 203 | 600692.SH | 亚通股份 | 284.04% | 6.48 | +0.62% | 2,123 | 16.7 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-26/1225502305.PDF) | 招股书PDF |
 | 204 | 002436.SZ | 兴森科技 | 283.27% | 36.36 | +1.85% | 326,424 | 545.4 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-21/1225487501.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2010-06-01/58015921.PDF) |
 | 205 | 002841.SZ | 视源股份 | 282.44% | 46.91 | -0.17% | 17,115 | 245.2 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-27/1225511876.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2017-01-06/1202994875.PDF) |
 | 206 | 001339.SZ | 智微智能 | 281.92% | 78.61 | -2.36% | 26,222 | 125.3 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-07-18/1225430474.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2022-08-03/1214204137.PDF) |
@@ -214,11 +214,11 @@
 | 208 | 002127.SZ | 南极电商 | 279.42% | 2.92 | +0.69% | 3,124 | 58.4 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-20/1225481266.PDF) | 招股书PDF |
 | 209 | 600148.SH | 长春一东 | 278.87% | 15.65 | +0.19% | 653 | 22.2 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-26/1225501281.PDF) | 招股书PDF |
 | 210 | 002074.SZ | 国轩高科 | 278.05% | 27.24 | -1.63% | 33,354 | 473.6 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-25/1225495934.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2022-07-26/1214130330.PDF) |
-| 211 | 600203.SH | 福日电子 | 277.41% | 10.67 | +0.09% | 11,704 | 63.6 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-11/1225466282.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/1999-03-25/164272.html) |
+| 211 | 600203.SH | 福日电子 | 277.41% | 10.67 | +0.09% | 11,704 | 63.6 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-11/1225466282.PDF) | 招股书PDF |
 | 212 | 600095.SH | 湘财股份 | 273.74% | 9.71 | +1.78% | 141,634 | 275.1 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-27/1225511754.PDF) | 招股书PDF |
 | 213 | 000504.SZ | 南华生物 | 271.99% | 8.33 | -0.95% | 2,148 | 27.5 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-24/1225489461.PDF) | 招股书PDF |
 | 214 | 300459.SZ | 汤姆猫 | 270.12% | 3.54 | -1.12% | 15,200 | 117.6 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-27/1225511444.PDF) | 招股书PDF |
-| 215 | 002795.SZ | 永和智控 | 268.50% | 7.30 | +1.25% | 5,300 | 31.6 | 财报PDF | [招股书PDF](http://static.cninfo.com.cn/finalpage/2016-04-18/1202188447.PDF) |
+| 215 | 002795.SZ | 永和智控 | 268.50% | 7.30 | +1.25% | 5,300 | 31.6 | 财报PDF | 招股书PDF |
 | 216 | 600596.SH | 新安股份 | 268.03% | 11.05 | +1.47% | 23,402 | 151.0 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-25/1225497008.PDF) | 招股书PDF |
 | 217 | 301129.SZ | 瑞纳智能 | 267.16% | 23.42 | -1.47% | 3,822 | 15.8 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-18/1225476512.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2021-10-14/1211255908.PDF) |
 | 218 | 300503.SZ | 昊志机电 | 266.57% | 67.88 | -1.54% | 43,373 | 163.9 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-07-21/1225432105.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2016-02-26/1202000337.PDF) |
@@ -236,7 +236,7 @@
 | 230 | 002148.SZ | 北纬科技 | 252.77% | 6.29 | +0.16% | 2,915 | 28.5 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-20/1225481759.PDF) | 招股书PDF |
 | 231 | 603937.SH | 丽岛新材 | 249.19% | 11.72 | +0.26% | 3,058 | 24.7 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-28/1225517759.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2017-10-20/1204055152.PDF) |
 | 232 | 301071.SZ | 力量钻石 | 247.61% | 62.50 | +1.18% | 49,950 | 114.7 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-07-29/1225444458.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2021-09-07/1210978068.PDF) |
-| 233 | 600736.SH | 苏州高新 | 247.58% | 6.92 | -1.00% | 13,504 | 79.7 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-28/1225519139.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/1996-07-27/149261.html) |
+| 233 | 600736.SH | 苏州高新 | 247.58% | 6.92 | -1.00% | 13,504 | 79.7 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-28/1225519139.PDF) | 招股书PDF |
 | 234 | 002365.SZ | 永安药业 | 247.39% | 14.52 | -2.81% | 27,805 | 36.9 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-28/1225515820.PDF) | 招股书PDF |
 | 235 | 301316.SZ | 慧博云通 | 244.65% | 39.57 | -0.95% | 16,954 | 151.6 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-27/1225514302.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2022-10-10/1214724186.PDF) |
 | 236 | 301176.SZ | 逸豪新材 | 242.19% | 46.70 | +0.15% | 13,787 | 76.1 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-26/1225500845.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2022-09-23/1214650879.PDF) |
@@ -299,7 +299,7 @@
 | 293 | 603978.SH | 深圳新星 | 189.50% | 19.11 | +0.95% | 7,570 | 40.4 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-27/1225510046.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2017-07-24/1203727720.PDF) |
 | 294 | 002200.SZ | 交投生态 | 187.62% | 7.09 | +1.87% | 1,272 | 14.0 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-08/1225464237.PDF) | 招股书PDF |
 | 295 | 300190.SZ | 维尔利 | 187.40% | 3.69 | -1.34% | 1,539 | 35.7 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-25/1225496607.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2011-03-04/59075937.PDF) |
-| 296 | 000737.SZ | 北方铜业 | 186.61% | 15.38 | +0.46% | 99,757 | 292.7 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-27/1225513792.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/1997-04-01/53230.html) |
+| 296 | 000737.SZ | 北方铜业 | 186.61% | 15.38 | +0.46% | 99,757 | 292.7 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-27/1225513792.PDF) | 招股书PDF |
 | 297 | 300620.SZ | 光库科技 | 186.09% | 316.57 | +5.21% | 332,028 | 770.1 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-18/1225477531.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2017-02-28/1203112968.PDF) |
 | 298 | 300970.SZ | 华绿生物 | 185.85% | 20.68 | +1.62% | 37,298 | 25.6 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-20/1225482928.PDF) | 招股书PDF |
 | 299 | 603836.SH | 海程邦达 | 185.24% | 9.19 | +0.77% | 1,592 | 25.7 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-26/1225505466.PDF) | 招股书PDF |
@@ -319,7 +319,7 @@
 | 313 | 002169.SZ | 智光电气 | 179.48% | 12.07 | -1.79% | 8,004 | 92.9 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-24/1225490292.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2007-09-06/31415431.PDF) |
 | 314 | 600227.SH | 赤天化 | 179.28% | 4.21 | +1.20% | 57,525 | 58.5 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-28/1225516351.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2010-02-26/57628140.PDF) |
 | 315 | 301210.SZ | 金杨精密 | 177.70% | 24.15 | -0.29% | 3,347 | 14.8 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-21/1225484820.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2023-06-27/1217140074.PDF) |
-| 316 | 000807.SZ | 云铝股份 | 177.61% | 27.03 | +1.27% | 134,993 | 944.0 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-28/1225522152.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/1998-02-23/60978.html) |
+| 316 | 000807.SZ | 云铝股份 | 177.61% | 27.03 | +1.27% | 134,993 | 944.0 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-28/1225522152.PDF) | 招股书PDF |
 | 317 | 002557.SZ | 洽洽食品 | 177.38% | 18.69 | +1.03% | 6,864 | 94.5 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-25/1225496055.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2011-02-18/59014316.PDF) |
 | 318 | 603271.SH | 永杰新材 | 176.65% | 42.42 | -1.23% | 6,401 | 40.1 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-27/1225510591.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2025-03-06/1222721489.PDF) |
 | 319 | 301526.SZ | 国际复材 | 176.56% | 30.88 | -0.83% | 303,102 | 426.0 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-20/1225482441.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2023-12-21/1218674465.PDF) |
@@ -338,7 +338,7 @@
 | 332 | 002716.SZ | 湖南白银 | 170.34% | 11.71 | +0.95% | 302,130 | 269.6 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-21/1225485208.PDF) | 招股书PDF |
 | 333 | 300667.SZ | 必创科技 | 170.19% | 14.64 | +0.27% | 3,508 | 25.9 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-20/1225482591.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2017-06-05/1203587550.PDF) |
 | 334 | 001366.SZ | 播恩集团 | 169.52% | 12.74 | +0.08% | 2,476 | 20.7 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-25/1225495988.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2023-02-21/1215907122.PDF) |
-| 335 | 600626.SH | 申达股份 | 169.48% | 3.66 | +0.27% | 2,210 | 49.0 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-27/1225509154.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/1998-07-03/155176.html) |
+| 335 | 600626.SH | 申达股份 | 169.48% | 3.66 | +0.27% | 2,210 | 49.0 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-27/1225509154.PDF) | 招股书PDF |
 | 336 | 605136.SH | 丽人丽妆 | 168.75% | 8.24 | +0.98% | 2,475 | 33.5 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-14/1225471313.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2020-09-16/1208446720.PDF) |
 | 337 | 300855.SZ | 图南股份 | 167.92% | 33.93 | +0.74% | 6,192 | 99.3 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-19/1225479346.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2020-07-13/1208025433.PDF) |
 | 338 | 300219.SZ | 鸿利智汇 | 166.84% | 7.06 | +0.14% | 4,752 | 49.8 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-25/1225497174.PDF) | 招股书PDF |
@@ -350,7 +350,7 @@
 | 344 | 003022.SZ | 联泓新科 | 165.68% | 20.10 | +0.25% | 6,778 | 269.0 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-18/1225476924.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2020-11-24/1208783311.PDF) |
 | 345 | 600354.SH | 敦煌种业 | 165.68% | 8.21 | +10.05% | 82,531 | 43.3 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-28/1225518037.PDF) | 招股书PDF |
 | 346 | 002635.SZ | 安洁科技 | 165.12% | 15.60 | -0.95% | 11,819 | 61.3 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-26/1225506772.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2011-11-15/60201542.PDF) |
-| 347 | 600688.SH | 上海石化 | 165.01% | 2.91 | +1.04% | 12,040 | 215.5 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-20/1225482772.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/1993-08-08/148802.html) |
+| 347 | 600688.SH | 上海石化 | 165.01% | 2.91 | +1.04% | 12,040 | 215.5 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-20/1225482772.PDF) | 招股书PDF |
 | 348 | 002008.SZ | 大族激光 | 163.84% | 88.23 | -1.97% | 119,803 | 841.5 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-21/1225485259.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2004-06-08/14124875.PDF) |
 | 349 | 000421.SZ | 南京公用 | 163.53% | 5.75 | +0.70% | 2,531 | 33.2 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-24/1225488146.PDF) | 招股书PDF |
 | 350 | 603068.SH | 博通集成 | 162.60% | 36.18 | -0.74% | 15,388 | 54.6 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-21/1225485019.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2019-04-01/1205978473.PDF) |
@@ -373,11 +373,11 @@
 | 367 | 000933.SZ | 神火股份 | 151.06% | 27.03 | +0.41% | 50,425 | 617.4 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-07-28/1225442512.PDF) | 招股书PDF |
 | 368 | 002105.SZ | 信隆健康 | 151.02% | 6.12 | +0.82% | 1,510 | 22.5 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-22/1225488288.PDF) | 招股书PDF |
 | 369 | 300582.SZ | 英飞特 | 150.87% | 11.70 | +4.84% | 10,523 | 27.2 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-26/1225506816.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2016-12-15/1202875543.PDF) |
-| 370 | 600810.SH | 神马股份 | 149.14% | 6.64 | +1.07% | 5,767 | 72.1 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-28/1225517074.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/1993-10-31/149765.html) |
+| 370 | 600810.SH | 神马股份 | 149.14% | 6.64 | +1.07% | 5,767 | 72.1 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-28/1225517074.PDF) | 招股书PDF |
 | 371 | 600706.SH | 曲江文旅 | 149.08% | 8.18 | +1.49% | 2,917 | 21.0 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-25/1225500131.PDF) | 招股书PDF |
 | 372 | 002889.SZ | 东方嘉盛 | 148.95% | 12.63 | +0.00% | 1,643 | 31.8 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-26/1225505305.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2017-07-17/1203708936.PDF) |
 | 373 | 300721.SZ | 怡达股份 | 148.89% | 22.97 | +1.10% | 12,790 | 31.9 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-22/1225488648.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2017-11-08/1204125024.PDF) |
-| 374 | 600746.SH | 江苏索普 | 148.73% | 6.98 | +1.45% | 4,447 | 83.6 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-26/1225502733.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/1996-08-27/149269.html) |
+| 374 | 600746.SH | 江苏索普 | 148.73% | 6.98 | +1.45% | 4,447 | 83.6 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-26/1225502733.PDF) | 招股书PDF |
 | 375 | 300801.SZ | 泰和科技 | 148.24% | 23.15 | +0.09% | 4,577 | 32.1 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-24/1225489384.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2019-11-18/1207096733.PDF) |
 | 376 | 000819.SZ | 岳阳兴长 | 148.21% | 12.30 | +1.23% | 2,286 | 45.3 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-18/1225476349.PDF) | 招股书PDF |
 | 377 | 600918.SH | 中泰证券 | 146.38% | 5.75 | -0.69% | 12,474 | 261.9 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-22/1225493371.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2020-04-28/1207648248.PDF) |
@@ -385,7 +385,7 @@
 | 379 | 002925.SZ | 盈趣科技 | 145.09% | 23.27 | -1.23% | 17,545 | 170.8 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-22/1225490041.PDF) | 招股书PDF |
 | 380 | 301111.SZ | 粤万年青 | 144.15% | 25.35 | +11.43% | 39,566 | 38.6 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-28/1225516746.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2021-12-02/1211764254.PDF) |
 | 381 | 002095.SZ | 生意宝 | 143.28% | 14.45 | +0.49% | 1,557 | 36.4 | 财报PDF | 招股书PDF |
-| 382 | 600776.SH | 东方通信 | 143.18% | 12.98 | -0.23% | 9,992 | 123.7 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-27/1225509905.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/1996-07-12/149193.html) |
+| 382 | 600776.SH | 东方通信 | 143.18% | 12.98 | -0.23% | 9,992 | 123.7 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-27/1225509905.PDF) | 招股书PDF |
 | 383 | 300343.SZ | 联创股份 | 142.36% | 5.77 | -1.03% | 5,643 | 63.0 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-15/1225473409.PDF) | 招股书PDF |
 | 384 | 300213.SZ | 佳讯飞鸿 | 141.68% | 6.38 | +0.16% | 2,488 | 35.3 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-15/1225474120.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2011-04-22/59313064.PDF) |
 | 385 | 603002.SH | 宏昌电子 | 141.15% | 17.84 | +5.50% | 160,565 | 200.6 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-22/1225489945.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2012-05-17/61008378.PDF) |
@@ -402,11 +402,11 @@
 | 396 | 002685.SZ | 华东重机 | 137.31% | 5.53 | -0.72% | 5,056 | 55.9 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-25/1225496068.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2012-05-29/61058349.PDF) |
 | 397 | 603997.SH | 继峰股份 | 137.26% | 11.45 | +0.35% | 8,274 | 146.1 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-15/1225474995.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2015-02-11/1200627768.PDF) |
 | 398 | 000151.SZ | 中成股份 | 137.08% | 10.17 | +0.49% | 2,496 | 31.6 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-27/1225511200.PDF) | 招股书PDF |
-| 399 | 600770.SH | 综艺股份 | 136.92% | 5.14 | -0.77% | 3,558 | 66.8 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-07/1225461657.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/1996-10-29/148827.html) |
+| 399 | 600770.SH | 综艺股份 | 136.92% | 5.14 | -0.77% | 3,558 | 66.8 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-07/1225461657.PDF) | 招股书PDF |
 | 400 | 000059.SZ | 华锦股份 | 136.92% | 5.57 | +10.08% | 47,411 | 89.1 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-20/1225481751.PDF) | 招股书PDF |
 | 401 | 600346.SH | 恒力石化 | 136.25% | 19.15 | +1.32% | 24,510 | 1,381.8 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-20/1225482026.PDF) | 招股书PDF |
 | 402 | 002845.SZ | 同兴达 | 136.15% | 13.34 | +0.53% | 5,238 | 33.5 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-21/1225485852.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2017-01-12/1203008848.PDF) |
-| 403 | 000089.SZ | 深圳机场 | 135.97% | 6.54 | +0.77% | 5,304 | 134.7 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-20/1225482716.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/1998-03-03/61542.html) |
+| 403 | 000089.SZ | 深圳机场 | 135.97% | 6.54 | +0.77% | 5,304 | 134.7 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-20/1225482716.PDF) | 招股书PDF |
 | 404 | 301607.SZ | 富特科技 | 135.76% | 44.51 | +2.44% | 50,430 | 64.6 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-28/1225516160.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2024-08-30/1221052140.PDF) |
 | 405 | 300619.SZ | 金银河 | 135.57% | 25.92 | -1.14% | 5,747 | 49.5 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-25/1225496741.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2017-02-13/chinext1203078720.js) |
 | 406 | 300745.SZ | 欣锐科技 | 135.33% | 29.09 | -0.82% | 11,042 | 40.7 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-27/1225509011.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2018-05-11/1204929797.PDF) |
@@ -437,9 +437,9 @@
 | 431 | 002468.SZ | 申通快递 | 128.31% | 14.05 | +0.07% | 9,729 | 208.5 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-28/1225517934.PDF) | 招股书PDF |
 | 432 | 600844.SH | 金煤科技 | 128.04% | 3.66 | +0.83% | 7,656 | 31.3 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-07-18/1225430319.PDF) | 招股书PDF |
 | 433 | 002180.SZ | 奔图科技 | 128.00% | 17.19 | -1.26% | 5,658 | 236.6 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-26/1225504923.PDF) | 招股书PDF |
-| 434 | 600790.SH | 轻纺城 | 127.56% | 3.42 | +1.18% | 2,699 | 50.4 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-25/1225497201.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/1997-01-17/148776.html) |
+| 434 | 600790.SH | 轻纺城 | 127.56% | 3.42 | +1.18% | 2,699 | 50.4 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-25/1225497201.PDF) | 招股书PDF |
 | 435 | 301075.SZ | 多瑞医药 | 127.13% | 55.99 | -1.77% | 3,694 | 31.6 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-26/1225506590.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2021-09-13/1211010129.PDF) |
-| 436 | 000523.SZ | 红棉股份 | 127.05% | 3.54 | +3.51% | 24,312 | 63.9 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-27/1225508206.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/1993-09-16/53100.html) |
+| 436 | 000523.SZ | 红棉股份 | 127.05% | 3.54 | +3.51% | 24,312 | 63.9 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-27/1225508206.PDF) | 招股书PDF |
 | 437 | 600549.SH | 厦门钨业 | 127.04% | 54.36 | -0.80% | 114,175 | 848.1 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-21/1225485968.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2002-10-23/10031727.PDF) |
 | 438 | 301348.SZ | 蓝箭电子 | 127.03% | 21.62 | -0.09% | 9,959 | 41.7 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-27/1225514294.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2023-08-03/1217452806.PDF) |
 | 439 | 002648.SZ | 卫星化学 | 126.94% | 27.86 | +1.72% | 65,699 | 958.4 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-15/1225474290.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2011-12-15/60326366.PDF) |
@@ -461,8 +461,8 @@
 | 455 | 301238.SZ | 瑞泰新材 | 120.85% | 16.43 | -0.36% | 6,866 | 120.4 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-22/1225491487.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2022-06-14/1213690240.PDF) |
 | 456 | 600111.SH | 北方稀土 | 120.46% | 40.49 | -1.03% | 88,613 | 1,468.4 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-20/1225483017.PDF) | 招股书PDF |
 | 457 | 300757.SZ | 罗博特科 | 119.67% | 549.00 | -0.56% | 143,862 | 881.7 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-26/1225507374.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2018-12-24/1205685636.PDF) |
-| 458 | 600727.SH | 鲁北化工 | 119.46% | 7.69 | +1.05% | 6,533 | 41.6 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-06/1225459964.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/1996-05-26/149379.html) |
-| 459 | 603001.SH | 奥康国际 | 119.09% | 8.30 | -0.24% | 2,067 | 33.0 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-08/1225464701.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2012-04-25/60901763.PDF) |
+| 458 | 600727.SH | 鲁北化工 | 119.46% | 7.69 | +1.05% | 6,533 | 41.6 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-06/1225459964.PDF) | 招股书PDF |
+| 459 | 603001.SH | 奥康国际 | 119.09% | 8.30 | -0.24% | 2,067 | 33.0 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-08/1225464701.PDF) | 招股书PDF |
 | 460 | 002519.SZ | 银河电子 | 118.88% | 5.50 | -0.36% | 4,259 | 61.9 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-08/1225478440.pdf) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2010-11-23/58693829.PDF) |
 | 461 | 301116.SZ | 益客食品 | 118.60% | 9.73 | -0.10% | 2,725 | 43.6 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-27/1225508072.PDF) | 招股书PDF |
 | 462 | 002346.SZ | 柘中股份 | 118.53% | 20.68 | -1.57% | 7,433 | 92.0 | 财报PDF | 招股书PDF |
@@ -477,7 +477,7 @@
 | 471 | 600255.SH | 鑫科材料 | 115.97% | 3.36 | +0.60% | 8,293 | 61.2 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-11/1225465571.PDF) | 招股书PDF |
 | 472 | 300558.SZ | 贝达药业 | 115.97% | 50.59 | -1.71% | 40,048 | 213.8 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-21/1225487673.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2016-10-26/1202786964.PDF) |
 | 473 | 300159.SZ | 新研股份 | 115.58% | 2.99 | -1.32% | 5,863 | 56.5 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-28/1225520112.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2010-12-24/58820832.PDF) |
-| 474 | 600120.SH | 浙江东方 | 115.47% | 4.92 | -0.61% | 7,992 | 168.7 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-18/1225477432.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/1997-11-12/149339.html) |
+| 474 | 600120.SH | 浙江东方 | 115.47% | 4.92 | -0.61% | 7,992 | 168.7 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-18/1225477432.PDF) | 招股书PDF |
 | 475 | 601500.SH | 通用股份 | 114.84% | 3.98 | +0.76% | 5,918 | 63.5 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-28/1225518109.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2016-09-02/1202671131.PDF) |
 | 476 | 300531.SZ | 优博讯 | 114.31% | 16.89 | -0.18% | 12,845 | 52.6 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-25/1225497574.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2016-07-25/chinext1202501954.js) |
 | 477 | 300666.SZ | 江丰电子 | 113.61% | 242.90 | -2.13% | 155,012 | 534.7 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-25/1225500178.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2017-06-02/1203579943.PDF) |
@@ -490,7 +490,7 @@
 | 484 | 603711.SH | 香飘飘 | 111.15% | 11.71 | +2.09% | 2,867 | 49.7 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-15/1225474378.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2017-11-20/1204151941.PDF) |
 | 485 | 000790.SZ | 华神科技 | 111.14% | 4.21 | -0.24% | 2,627 | 26.0 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-24/1225492583.PDF) | 招股书PDF |
 | 486 | 002246.SZ | 北化股份 | 111.09% | 20.02 | +0.00% | 6,230 | 111.1 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-10/1225464225.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2008-05-26/39980755.PDF) |
-| 487 | 600712.SH | 南宁百货 | 110.59% | 5.55 | +1.83% | 2,348 | 30.2 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-21/1225486210.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/1996-05-29/148813.html) |
+| 487 | 600712.SH | 南宁百货 | 110.59% | 5.55 | +1.83% | 2,348 | 30.2 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-21/1225486210.PDF) | 招股书PDF |
 | 488 | 000049.SZ | 德赛电池 | 110.44% | 23.52 | -0.30% | 5,528 | 90.6 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-18/1225476262.PDF) | 招股书PDF |
 | 489 | 000560.SZ | 我爱我家 | 110.39% | 2.64 | +10.00% | 61,589 | 61.8 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-28/1225517051.PDF) | 招股书PDF |
 | 490 | 300486.SZ | 东杰智能 | 109.65% | 18.60 | -3.63% | 19,748 | 88.9 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-26/1225504049.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2015-06-18/1201165675.PDF) |
@@ -558,7 +558,7 @@
 | 552 | 603212.SH | 赛伍技术 | 94.48% | 11.83 | +0.94% | 5,946 | 51.8 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-28/1225522133.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2020-04-17/1207517503.PDF) |
 | 553 | 001389.SZ | 广合科技 | 94.39% | 159.40 | +0.92% | 46,861 | 238.7 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-08/1225464824.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2024-03-28/1219425163.PDF) |
 | 554 | 002654.SZ | 万润科技 | 94.19% | 13.74 | -0.72% | 37,554 | 115.7 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-27/1225511196.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2012-02-03/60496330.PDF) |
-| 555 | 600151.SH | 航天机电 | 93.76% | 10.05 | -0.40% | 13,778 | 143.3 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-26/1225500886.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/1998-05-27/153088.html) |
+| 555 | 600151.SH | 航天机电 | 93.76% | 10.05 | -0.40% | 13,778 | 143.3 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-26/1225500886.PDF) | 招股书PDF |
 | 556 | 600487.SH | 亨通光电 | 93.38% | 70.81 | -0.69% | 1,033,802 | 1,698.9 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-27/1225513678.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2003-08-04/10931420.PDF) |
 | 557 | 301369.SZ | 联动科技 | 93.20% | 137.93 | -3.39% | 18,367 | 75.1 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-27/1225508289.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2022-09-07/1214549177.PDF) |
 | 558 | 300437.SZ | 清水源 | 93.17% | 11.43 | -0.78% | 4,465 | 20.2 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-11/1225466340.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2015-04-14/1200829442.PDF) |
@@ -586,7 +586,7 @@
 | 580 | 600521.SH | 华海药业 | 88.26% | 16.34 | -1.80% | 18,827 | 245.2 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-27/1225513543.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2003-02-12/10132225.PDF) |
 | 581 | 301219.SZ | 腾远钴业 | 87.82% | 46.31 | -0.49% | 15,258 | 126.7 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-21/1225486360.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2022-03-14/1212557502.PDF) |
 | 582 | 300112.SZ | 万讯自控 | 87.52% | 10.33 | -3.46% | 11,009 | 24.5 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-25/1225496887.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2010-08-13/58297888.PDF) |
-| 583 | 600725.SH | 云维股份 | 86.86% | 3.39 | +0.30% | 2,288 | 41.9 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-25/1225497092.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/1996-06-06/149377.html) |
+| 583 | 600725.SH | 云维股份 | 86.86% | 3.39 | +0.30% | 2,288 | 41.9 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-25/1225497092.PDF) | 招股书PDF |
 | 584 | 600955.SH | 维远股份 | 86.63% | 12.88 | +1.18% | 2,022 | 71.5 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-21/1225484613.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2021-09-01/1210950169.PDF) |
 | 585 | 600833.SH | 第一医药 | 86.60% | 10.96 | +0.64% | 4,449 | 24.3 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-26/1225501018.PDF) | 招股书PDF |
 | 586 | 603993.SH | 洛阳钼业 | 86.27% | 19.50 | -0.05% | 212,984 | 3,397.9 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-20/1225482748.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2012-10-08/61625545.PDF) |
@@ -612,7 +612,7 @@
 | 606 | 000966.SZ | 长源电力 | 82.39% | 4.03 | -0.25% | 3,674 | 141.0 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-20/1225481857.PDF) | 招股书PDF |
 | 607 | 300806.SZ | 斯迪克 | 82.38% | 49.82 | -3.24% | 81,460 | 224.5 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-27/1225510552.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2019-11-12/1207081170.PDF) |
 | 608 | 002956.SZ | 西麦食品 | 81.88% | 17.19 | +1.24% | 1,876 | 53.8 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-20/1225482369.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2019-06-03/1206323480.PDF) |
-| 609 | 600740.SH | 山西焦化 | 81.18% | 3.95 | +1.28% | 11,041 | 101.5 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-25/1225497638.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/1996-06-25/149264.html) |
+| 609 | 600740.SH | 山西焦化 | 81.18% | 3.95 | +1.28% | 11,041 | 101.5 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-25/1225497638.PDF) | 招股书PDF |
 | 610 | 300364.SZ | 中文在线 | 81.01% | 22.67 | +0.40% | 78,635 | 150.0 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-26/1225504423.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2015-01-13/1200540276.PDF) |
 | 611 | 301297.SZ | 富乐德 | 80.30% | 41.06 | +7.49% | 81,940 | 216.5 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-25/1225497973.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2022-12-27/1215457202.PDF) |
 | 612 | 002855.SZ | 捷荣技术 | 80.30% | 14.64 | +9.99% | 4,878 | 36.0 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-26/1225502840.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2017-03-07/1203135303.PDF) |
@@ -640,11 +640,11 @@
 | 634 | 601002.SH | 晋亿实业 | 76.82% | 5.29 | +0.57% | 3,463 | 50.6 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-27/1225513199.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2007-01-25/20464195.PDF) |
 | 635 | 002951.SZ | 金时科技 | 76.73% | 16.12 | -0.80% | 2,424 | 64.5 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-09-02/1225541085.PDF) | 招股书PDF |
 | 636 | 002392.SZ | 北京利尔 | 76.51% | 7.84 | +0.64% | 6,656 | 92.1 | 财报PDF | 招股书PDF |
-| 637 | 600798.SH | 宁波海运 | 76.05% | 3.32 | +0.91% | 2,637 | 40.2 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-25/1225497078.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/1997-03-14/148782.html) |
+| 637 | 600798.SH | 宁波海运 | 76.05% | 3.32 | +0.91% | 2,637 | 40.2 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-25/1225497078.PDF) | 招股书PDF |
 | 638 | 300397.SZ | 天和防务 | 76.00% | 11.08 | +0.64% | 8,378 | 45.1 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-27/1225510780.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2014-08-27/1200175170.PDF) |
 | 639 | 002396.SZ | 星网锐捷 | 75.86% | 36.69 | +10.01% | 238,193 | 277.9 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-15/1225474592.PDF) | 招股书PDF |
 | 640 | 002574.SZ | 明牌珠宝 | 75.66% | 5.32 | +4.11% | 9,848 | 27.7 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-27/1225509355.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2011-04-13/59259990.PDF) |
-| 641 | 000601.SZ | 韶能股份 | 75.64% | 6.17 | -1.44% | 8,778 | 64.9 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-28/1225525389.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/1996-08-15/60431.html) |
+| 641 | 000601.SZ | 韶能股份 | 75.64% | 6.17 | -1.44% | 8,778 | 64.9 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-28/1225525389.PDF) | 招股书PDF |
 | 642 | 000925.SZ | 众合科技 | 75.61% | 8.53 | +0.00% | 23,855 | 63.0 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-22/1225490549.PDF) | 招股书PDF |
 | 643 | 300658.SZ | 延江股份 | 75.60% | 10.36 | -0.10% | 3,271 | 25.1 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-26/1225503375.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2017-05-16/1203520598.PDF) |
 | 644 | 300871.SZ | 回盛生物 | 75.59% | 22.96 | -0.35% | 3,654 | 46.7 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-15/1225473773.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2020-08-17/1208183116.PDF) |
@@ -693,7 +693,7 @@
 | 687 | 603533.SH | 掌阅科技 | 68.69% | 20.61 | -0.48% | 25,946 | 90.1 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-27/1225510832.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2017-09-06/1203940371.PDF) |
 | 688 | 600653.SH | 申华控股 | 68.68% | 1.73 | +0.00% | 1,665 | 34.1 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-27/1225510428.PDF) | 招股书PDF |
 | 689 | 002163.SZ | 海南发展 | 68.50% | 8.67 | +1.17% | 9,950 | 70.4 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-21/1225486195.PDF) | 招股书PDF |
-| 690 | 600500.SH | 中化国际 | 68.28% | 5.61 | +0.36% | 30,681 | 203.1 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-08/1225463941.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/1999-12-21/173783.html) |
+| 690 | 600500.SH | 中化国际 | 68.28% | 5.61 | +0.36% | 30,681 | 203.1 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-08/1225463941.PDF) | 招股书PDF |
 | 691 | 601899.SH | 紫金矿业 | 68.17% | 34.41 | -0.46% | 402,601 | 7,126.2 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-22/1225493590.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2008-04-24/39113730.PDF) |
 | 692 | 301179.SZ | 泽宇智能 | 68.11% | 20.41 | +3.45% | 12,038 | 49.3 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-24/1225492387.PDF) | 招股书PDF |
 | 693 | 300552.SZ | 万集科技 | 67.97% | 21.12 | -0.14% | 4,196 | 29.4 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-25/1225497995.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2016-10-10/1202746087.PDF) |
@@ -717,7 +717,7 @@
 | 711 | 300340.SZ | 科恒股份 | 65.45% | 9.02 | +0.67% | 2,509 | 24.6 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-26/1225501211.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2012-07-13/61262267.PDF) |
 | 712 | 002752.SZ | 昇兴股份 | 65.29% | 6.08 | +1.50% | 5,187 | 59.3 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-27/1225508820.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2015-04-13/1200821037.PDF) |
 | 713 | 002798.SZ | 帝欧水华 | 65.22% | 5.91 | +0.51% | 2,079 | 30.6 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-25/1225499873.PDF) | 招股书PDF |
-| 714 | 600189.SH | 泉阳泉 | 65.03% | 7.69 | +2.95% | 7,393 | 55.9 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-25/1225498925.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/1998-09-03/157630.html) |
+| 714 | 600189.SH | 泉阳泉 | 65.03% | 7.69 | +2.95% | 7,393 | 55.9 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-25/1225498925.PDF) | 招股书PDF |
 | 715 | 000815.SZ | 美利云 | 64.90% | 16.64 | +0.06% | 66,281 | 114.1 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-25/1225499454.PDF) | 招股书PDF |
 | 716 | 002005.SZ | 德豪润达 | 64.80% | 2.41 | +0.42% | 1,050 | 42.4 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-25/1225494778.PDF) | 招股书PDF |
 | 717 | 300277.SZ | 汽轮科技 | 64.54% | 11.98 | -2.44% | 15,384 | 91.8 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-27/1225513270.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2011-11-11/60187999.PDF) |
@@ -866,7 +866,7 @@
 | 860 | 300008.SZ | 天海防务 | 45.46% | 6.27 | +0.80% | 13,657 | 103.8 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-28/1225521718.PDF) | 招股书PDF |
 | 861 | 603979.SH | 金诚信 | 45.30% | 81.43 | +1.34% | 38,671 | 510.0 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-26/1225502889.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2015-06-18/1201165820.PDF) |
 | 862 | 603131.SH | 上海沪工 | 45.27% | 14.56 | +0.14% | 2,944 | 49.5 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-25/1225499092.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2016-05-25/1202338225.PDF) |
-| 863 | 000420.SZ | 吉林化纤 | 45.22% | 3.69 | +0.27% | 8,067 | 93.2 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-27/1225508966.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/1996-07-20/60620.html) |
+| 863 | 000420.SZ | 吉林化纤 | 45.22% | 3.69 | +0.27% | 8,067 | 93.2 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-27/1225508966.PDF) | 招股书PDF |
 | 864 | 300434.SZ | 金石亚药 | 45.22% | 11.42 | -2.97% | 8,807 | 39.2 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-26/1225500903.PDF) | 招股书PDF |
 | 865 | 002851.SZ | 麦格米特 | 45.21% | 128.62 | +0.75% | 286,715 | 626.3 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-28/1225522762.PDF) | 招股书PDF |
 | 866 | 300059.SZ | 东方财富 | 44.85% | 19.50 | -0.61% | 182,192 | 2,610.2 | 财报PDF | [招股书PDF](http://static.cninfo.com.cn/finalpage/2010-03-08/57663386.PDF) |
@@ -895,10 +895,10 @@
 | 889 | 002637.SZ | 赞宇科技 | 43.32% | 12.00 | +1.61% | 10,165 | 58.1 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-24/1225489201.PDF) | 招股书PDF |
 | 890 | 605567.SH | 春雪食品 | 43.31% | 9.45 | +0.75% | 1,763 | 19.0 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-27/1225511328.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2021-09-23/1211132132.PDF) |
 | 891 | 600869.SH | 远东股份 | 43.13% | 18.87 | +5.13% | 315,525 | 416.6 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-22/1225493632.PDF) | 招股书PDF |
-| 892 | 000570.SZ | 苏常柴Ａ | 43.09% | 5.19 | +0.58% | 2,152 | 29.1 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-21/1225484425.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/1996-08-27/60066.html) |
+| 892 | 000570.SZ | 苏常柴Ａ | 43.09% | 5.19 | +0.58% | 2,152 | 29.1 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-21/1225484425.PDF) | 招股书PDF |
 | 893 | 002566.SZ | 益盛药业 | 42.99% | 7.04 | +0.57% | 2,387 | 16.6 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-25/1225500147.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2011-03-08/59091526.PDF) |
 | 894 | 300885.SZ | 海昌新材 | 42.97% | 19.51 | -0.41% | 3,429 | 33.2 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-25/1225494262.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2020-08-26/1208248518.PDF) |
-| 895 | 600775.SH | 南京熊猫 | 42.92% | 9.66 | +0.21% | 4,673 | 64.9 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-27/1225509295.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/1996-11-04/148828.html) |
+| 895 | 600775.SH | 南京熊猫 | 42.92% | 9.66 | +0.21% | 4,673 | 64.9 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-27/1225509295.PDF) | 招股书PDF |
 | 896 | 603928.SH | 兴业股份 | 42.92% | 12.28 | +0.24% | 5,723 | 42.0 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-26/1225506355.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2016-11-28/1202845855.PDF) |
 | 897 | 600369.SH | 西南证券 | 42.86% | 4.14 | -0.24% | 7,708 | 275.1 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-25/1225500233.PDF) | 招股书PDF |
 | 898 | 300565.SZ | 科信技术 | 42.84% | 10.06 | +0.10% | 3,221 | 23.0 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-26/1225506450.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2016-11-09/1202820878.PDF) |

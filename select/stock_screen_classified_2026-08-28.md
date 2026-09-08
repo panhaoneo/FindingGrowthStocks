@@ -144,7 +144,7 @@
 | 002648.SZ | 卫星化学 | 126.94% | 27.86 | +1.72% | 958.4 |  | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-15/1225474290.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2011-12-15/60326366.PDF) |
 | 603260.SH | 合盛硅业 | 181.72% | 34.85 | +0.35% | 416.6 | ★AI(第三代半导体) | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-26/1225505925.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2017-10-17/1204048477.PDF) |
 | 002407.SZ | 多氟多 | 897.19% | 35.38 | +0.74% | 402.0 | ★AI(存储芯片,芯片概念,第三代半导体) | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-18/1225478600.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2010-04-30/57898198.PDF) |
-| 600500.SH | 中化国际 | 68.28% | 5.61 | +0.36% | 203.1 |  | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-08/1225463941.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/1999-12-21/173783.html) |
+| 600500.SH | 中化国际 | 68.28% | 5.61 | +0.36% | 203.1 |  | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-08/1225463941.PDF) | 招股书PDF |
 | 002497.SZ | 雅化集团 | 795.48% | 18.93 | -0.11% | 202.9 | ★AI(机器人概念) | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-26/1225504935.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2010-10-26/58570830.PDF) |
 | 300821.SZ | 东岳硅材 | 916.22% | 16.95 | +2.85% | 201.7 |  | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-21/1225487223.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2020-03-02/1207336386.PDF) |
 | 605020.SH | 永和股份 | 89.01% | 33.93 | +1.10% | 173.7 | ★AI(液冷服务器) | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-17/1225476085.PDF) | 招股书PDF |
@@ -162,7 +162,7 @@
 | 603110.SH | 东方材料 | 1573.21% | 24.21 | -0.41% | 48.0 | ★AI(PCB概念,数据中心(AIDC),AIGC概念) | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-28/1225519711.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2017-09-25/1203997729.PDF) |
 | 603980.SH | 吉华集团 | 1235.47% | 6.97 | +2.20% | 47.2 |  | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-28/1225516653.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2017-06-02/1203580217.PDF) |
 | 603681.SH | 永冠新材 | 199.60% | 18.55 | +0.16% | 43.8 | ★AI(人工智能,AI智能体) | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-27/1225510065.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2019-02-20/1205842733.PDF) |
-| 600727.SH | 鲁北化工 | 119.46% | 7.69 | +1.05% | 41.6 |  | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-06/1225459964.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/1996-05-26/149379.html) |
+| 600727.SH | 鲁北化工 | 119.46% | 7.69 | +1.05% | 41.6 |  | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-06/1225459964.PDF) | 招股书PDF |
 | 603051.SH | 鹿山新材 | 179.55% | 21.27 | +1.87% | 34.1 | ★AI(人形机器人,传感器) | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-21/1225486679.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2022-03-15/1212569382.PDF) |
 | 603739.SH | 蔚蓝生物 | 44.33% | 12.67 | +0.72% | 32.6 | ★AI(人工智能) | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-28/1225516574.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2019-01-02/1205701854.PDF) |
 | 300801.SZ | 泰和科技 | 148.24% | 23.15 | +0.09% | 32.1 | ★AI(PCB概念,芯片概念) | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-24/1225489384.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2019-11-18/1207096733.PDF) |
@@ -183,7 +183,7 @@
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 603986.SH | 兆易创新 | 1091.50% | 402.47 | -2.12% | 2,676.6 | ★AI(存储芯片,芯片概念,人形机器人) | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-19/1225480384.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2016-08-05/1202540297.PDF) |
 | 300604.SZ | 长川科技 | 125.67% | 276.36 | -2.96% | 1,364.2 | ★AI(存储芯片,芯片概念) | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-28/1225523217.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2017-03-30/1203226281.PDF) |
-| 600584.SH | 长电科技 | 79.41% | 76.25 | -0.38% | 1,349.0 | ★AI(存储芯片,数据中心(AIDC),芯片概念) | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-21/1225487900.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2003-05-14/10702920.PDF) |
+| 600584.SH | 长电科技 | 79.41% | 76.25 | -0.38% | 1,349.0 | ★AI(存储芯片,数据中心(AIDC),芯片概念) | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-21/1225487900.PDF) | 招股书PDF |
 | 301308.SZ | 江波龙 | 71528.66% | 383.16 | -0.80% | 1,067.3 | ★AI(存储芯片,数据中心(AIDC),AI手机) | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-11/1225467150.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2026-08-31/1225535453.PDF) |
 | 603893.SH | 瑞芯微 | 61.73% | 178.68 | -1.49% | 751.4 | ★AI(芯片概念,人工智能,人形机器人) | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-18/1225478618.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2020-01-17/1207259512.PDF) |
 | 001309.SZ | 德明利 | 5201.60% | 441.00 | +2.62% | 714.3 | ★AI(存储芯片,数据中心(AIDC),芯片概念) | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-28/1225522456.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2022-06-20/1213749473.PDF) |
@@ -198,7 +198,7 @@
 | 300456.SZ | 赛微电子 | 415612.12% | 40.65 | +9.69% | 242.3 | ★AI(数据中心(AIDC),芯片概念,东数西算(算力)) | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-27/1225514715.PDF) | 招股书PDF |
 | 301536.SZ | 星宸科技 | 619.50% | 118.36 | -1.60% | 218.8 | ★AI(芯片概念,人工智能,多模态AI) | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-27/1225513146.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2024-03-22/1219375102.PDF) |
 | 301297.SZ | 富乐德 | 80.30% | 41.06 | +7.49% | 216.5 | ★AI(芯片概念) | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-25/1225497973.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2022-12-27/1215457202.PDF) |
-| 300613.SZ | 富瀚微 | 1419.20% | 74.79 | +5.81% | 164.3 | ★AI(芯片概念,人工智能,人形机器人) | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-28/1225516041.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2017-02-06/chinext1203064838.js) |
+| 300613.SZ | 富瀚微 | 1419.20% | 74.79 | +5.81% | 164.3 | ★AI(芯片概念,人工智能,人形机器人) | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-28/1225516041.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2017-02-06/1203064827.PDF) |
 | 002151.SZ | 北斗星通 | 2784.18% | 28.99 | -0.79% | 128.6 | ★AI(芯片概念,英伟达概念,汽车芯片) | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-27/1225508000.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2007-07-27/30262678.PDF) |
 | 301666.SZ | 大普微-UW | 477.08% | 500.65 | +6.70% | 127.1 | ★AI(存储芯片,数据中心(AIDC),英伟达概念) | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-25/1225499362.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2026-04-10/1225088883.PDF) |
 | 300671.SZ | 富满微 | 353.41% | 56.95 | -0.12% | 123.6 | ★AI(存储芯片,芯片概念,第三代半导体) | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-07-30/1225447229.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2017-06-22/1203638944.PDF) |
@@ -218,7 +218,7 @@
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 300432.SZ | 富临精工 | 61.58% | 15.12 | -3.26% | 257.3 | ★AI(人形机器人,机器人概念) | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-27/1225510548.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2015-03-10/1200684770.PDF) |
 | 603997.SH | 继峰股份 | 137.26% | 11.45 | +0.35% | 146.1 | ★AI(机器人概念) | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-15/1225474995.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2015-02-11/1200627768.PDF) |
-| 600151.SH | 航天机电 | 93.76% | 10.05 | -0.40% | 143.3 |  | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-26/1225500886.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/1998-05-27/153088.html) |
+| 600151.SH | 航天机电 | 93.76% | 10.05 | -0.40% | 143.3 |  | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-26/1225500886.PDF) | 招股书PDF |
 | 300428.SZ | 立中集团 | 43.81% | 19.53 | +2.09% | 118.5 | ★AI(芯片概念,人形机器人,第三代半导体) | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-27/1225509330.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2015-03-10/1200684768.PDF) |
 | 002239.SZ | 奥特佳 | 41.30% | 2.59 | -0.38% | 84.9 |  | 财报PDF | 招股书PDF |
 | 002516.SZ | 旷达科技 | 45.85% | 5.44 | +1.12% | 79.7 | ★AI(芯片概念,机器人概念) | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-28/1225517151.PDF) | 招股书PDF |
@@ -231,11 +231,11 @@
 | 600698.SH | 湖南天雁 | 75.40% | 7.20 | -1.91% | 60.0 |  | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-22/1225491232.PDF) | 招股书PDF |
 | 600081.SH | 东风科技 | 107.49% | 10.40 | +0.29% | 57.7 | ★AI(传感器,机器人概念) | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-25/1225496450.PDF) | 招股书PDF |
 | 605228.SH | 神通科技 | 43.94% | 10.46 | -0.29% | 50.0 | ★AI(机器人概念) | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-07-23/1225437446.PDF) | 招股书PDF |
-| 600626.SH | 申达股份 | 169.48% | 3.66 | +0.27% | 49.0 |  | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-27/1225509154.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/1998-07-03/155176.html) |
+| 600626.SH | 申达股份 | 169.48% | 3.66 | +0.27% | 49.0 |  | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-27/1225509154.PDF) | 招股书PDF |
 | 002328.SZ | 新朋股份 | 316.34% | 7.75 | -0.13% | 44.3 | ★AI(数据中心(AIDC),液冷服务器) | 财报PDF | [招股书PDF](http://static.cninfo.com.cn/finalpage/2009-12-17/57407214.PDF) |
 | 300745.SZ | 欣锐科技 | 135.33% | 29.09 | -0.82% | 40.7 | ★AI(机器人概念) | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-27/1225509011.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2018-05-11/1204929797.PDF) |
 | 603085.SH | 天成自控 | 117.44% | 9.93 | +0.00% | 39.8 |  | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-25/1225496793.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2015-06-18/1201165812.PDF) |
-| 000599.SZ | 青岛双星 | 503.71% | 4.74 | +0.21% | 39.0 | ★AI(机器人概念) | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-14/1225472611.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/1996-04-03/60429.html) |
+| 000599.SZ | 青岛双星 | 503.71% | 4.74 | +0.21% | 39.0 | ★AI(机器人概念) | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-14/1225472611.PDF) | 招股书PDF |
 | 603178.SH | 圣龙股份 | 125.43% | 16.29 | -1.15% | 38.5 | ★AI(机器人概念) | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-25/1225494580.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2017-02-22/1203099751.PDF) |
 | 002406.SZ | 远东传动 | 83.78% | 6.77 | +0.45% | 38.2 |  | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-18/1225478159.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2010-04-30/57898283.PDF) |
 | 603926.SH | 铁流股份 | 41.26% | 16.42 | +0.67% | 37.7 | ★AI(机器人概念) | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-26/1225506045.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2017-04-05/1203249160.PDF) |
@@ -272,7 +272,7 @@
 | 300515.SZ | 三德科技 | 42.80% | 16.17 | +0.81% | 32.6 | ★AI(机器人概念) | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-21/1225484155.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2016-05-27/1202341907.PDF) |
 | 301448.SZ | 开创电气 | 140.80% | 45.11 | +1.01% | 32.1 | ★AI(机器人概念) | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-25/1225498151.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2023-06-06/1216992387.PDF) |
 | 002795.SZ | 永和智控 | 268.50% | 7.30 | +1.25% | 31.6 |  | 财报PDF | [招股书PDF](http://static.cninfo.com.cn/finalpage/2016-04-18/1202188447.PDF) |
-| 000570.SZ | 苏常柴Ａ | 43.09% | 5.19 | +0.58% | 29.1 |  | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-21/1225484425.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/1996-08-27/60066.html) |
+| 000570.SZ | 苏常柴Ａ | 43.09% | 5.19 | +0.58% | 29.1 |  | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-21/1225484425.PDF) | 招股书PDF |
 | 300667.SZ | 必创科技 | 170.19% | 14.64 | +0.27% | 25.9 | ★AI(数据中心(AIDC),芯片概念,第三代半导体) | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-20/1225482591.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2017-06-05/1203587550.PDF) |
 | 603331.SH | 百达精工 | 130.66% | 12.75 | -0.08% | 25.7 | ★AI(人形机器人,机器人概念) | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-28/1225518245.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2017-06-22/1203640354.PDF) |
 | 300112.SZ | 万讯自控 | 87.52% | 10.33 | -3.46% | 24.5 | ★AI(人工智能,传感器,机器人概念) | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-25/1225496887.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2010-08-13/58297888.PDF) |
@@ -299,9 +299,9 @@
 | 002396.SZ | 星网锐捷 | 75.86% | 36.69 | +10.01% | 277.9 | ★AI(数据中心(AIDC),人工智能,AIGC概念) | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-15/1225474592.PDF) | 招股书PDF |
 | 002491.SZ | 通鼎互联 | 326.04% | 22.86 | -3.30% | 263.9 | ★AI(数据中心(AIDC)) | 财报PDF | 招股书PDF |
 | 000070.SZ | 特发信息 | 1007.52% | 16.11 | -2.36% | 136.4 | ★AI(数据中心(AIDC),人工智能,东数西算(算力)) | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-27/1225509195.PDF) | 招股书PDF |
-| 600776.SH | 东方通信 | 143.18% | 12.98 | -0.23% | 123.7 | ★AI(AI智能体) | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-27/1225509905.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/1996-07-12/149193.html) |
+| 600776.SH | 东方通信 | 143.18% | 12.98 | -0.23% | 123.7 | ★AI(AI智能体) | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-27/1225509905.PDF) | 招股书PDF |
 | 600345.SH | 长江通信 | 8833.11% | 52.05 | -0.02% | 108.4 | ★AI(人工智能) | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-25/1225499626.PDF) | 招股书PDF |
-| 600775.SH | 南京熊猫 | 42.92% | 9.66 | +0.21% | 64.9 | ★AI(人工智能,东数西算(算力),AI眼镜) | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-27/1225509295.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/1996-11-04/148828.html) |
+| 600775.SH | 南京熊猫 | 42.92% | 9.66 | +0.21% | 64.9 | ★AI(人工智能,东数西算(算力),AI眼镜) | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-27/1225509295.PDF) | 招股书PDF |
 | 301191.SZ | 菲菱科思 | 59.04% | 91.35 | -3.33% | 64.8 | ★AI(数据中心(AIDC),芯片概念) | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-28/1225521878.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2022-05-13/1213339279.PDF) |
 | 002902.SZ | 铭普光磁 | 78.92% | 28.13 | +10.01% | 52.5 | ★AI(数据中心(AIDC),芯片概念,铜缆高速连接) | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-22/1225492232.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2017-09-19/1203981619.PDF) |
 | 603803.SH | 瑞斯康达 | 89.22% | 11.33 | +1.16% | 47.8 | ★AI(数据中心(AIDC),芯片概念,东数西算(算力)) | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-26/1225503260.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2017-04-06/1203256246.PDF) |
@@ -319,7 +319,7 @@
 | 603993.SH | 洛阳钼业 | 86.27% | 19.50 | -0.05% | 3,397.9 |  | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-20/1225482748.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2012-10-08/61625545.PDF) |
 | 601600.SH | 中国铝业 | 67.91% | 9.75 | +1.04% | 1,296.6 | ★AI(PCB概念) | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-28/1225520152.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2007-09-14/31667916.PDF) |
 | 600362.SH | 江西铜业 | 106.77% | 49.20 | +0.00% | 1,018.3 | ★AI(PCB概念) | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-26/1225505938.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2001-12-19/16223279.PDF) |
-| 000807.SZ | 云铝股份 | 177.61% | 27.03 | +1.27% | 944.0 |  | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-28/1225522152.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/1998-02-23/60978.html) |
+| 000807.SZ | 云铝股份 | 177.61% | 27.03 | +1.27% | 944.0 |  | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-28/1225522152.PDF) | 招股书PDF |
 | 601168.SH | 西部矿业 | 123.03% | 38.93 | +0.67% | 931.8 |  | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-07-30/1225446414.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2007-07-11/29784341.PDF) |
 | 000630.SZ | 铜陵有色 | 107.93% | 6.76 | +0.00% | 754.4 | ★AI(PCB概念) | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-28/1225516837.PDF) | 招股书PDF |
 | 000933.SZ | 神火股份 | 151.06% | 27.03 | +0.41% | 617.4 |  | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-07-28/1225442512.PDF) | 招股书PDF |
@@ -328,7 +328,7 @@
 | 603979.SH | 金诚信 | 45.30% | 81.43 | +1.34% | 510.0 |  | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-26/1225502889.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2015-06-18/1201165820.PDF) |
 | 600711.SH | 盛屯矿业 | 71.37% | 12.02 | +0.59% | 370.3 |  | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-07-30/1225446751.PDF) | 招股书PDF |
 | 000060.SZ | 中金岭南 | 104.35% | 6.93 | +1.32% | 309.1 |  | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-28/1225517143.PDF) | 招股书PDF |
-| 000737.SZ | 北方铜业 | 186.61% | 15.38 | +0.46% | 292.7 | ★AI(PCB概念) | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-27/1225513792.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/1997-04-01/53230.html) |
+| 000737.SZ | 北方铜业 | 186.61% | 15.38 | +0.46% | 292.7 | ★AI(PCB概念) | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-27/1225513792.PDF) | 招股书PDF |
 | 000603.SZ | 盛达资源 | 456.46% | 38.74 | +2.00% | 257.2 |  | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-01/1225451505.PDF) | 招股书PDF |
 | 600595.SH | 中孚实业 | 165.84% | 6.30 | +0.96% | 254.1 |  | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-05/1225458132.PDF) | 招股书PDF |
 | 601677.SH | 明泰铝业 | 49.61% | 16.95 | -0.12% | 212.2 | ★AI(PCB概念,数据中心(AIDC),机器人概念) | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-18/1225476564.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2011-09-16/59962948.PDF) |
@@ -354,7 +354,7 @@
 | 601678.SH | 滨化股份 | 208.25% | 6.84 | +5.56% | 139.2 | ★AI(芯片概念) | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-28/1225523279.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2026-07-01/1225399028.PDF) |
 | 002092.SZ | 中泰化学 | 138.55% | 4.67 | +2.41% | 123.1 |  | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-15/1225475203.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2007-12-18/36076218.PDF) |
 | 000990.SZ | 诚志股份 | 1416.23% | 6.61 | +1.85% | 113.8 |  | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-13/1225470294.PDF) | 招股书PDF |
-| 600746.SH | 江苏索普 | 148.73% | 6.98 | +1.45% | 83.6 |  | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-26/1225502733.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/1996-08-27/149269.html) |
+| 600746.SH | 江苏索普 | 148.73% | 6.98 | +1.45% | 83.6 |  | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-26/1225502733.PDF) | 招股书PDF |
 | 600075.SH | 新疆天业 | 359.17% | 4.76 | +1.49% | 83.3 |  | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-22/1225488790.PDF) | 招股书PDF |
 | 600935.SH | 华塑股份 | 40.55% | 2.31 | +0.00% | 82.4 |  | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-26/1225503265.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2021-11-16/1211591192.PDF) |
 | 000818.SZ | 航锦科技 | 263.32% | 12.38 | +0.16% | 81.7 | ★AI(存储芯片,数据中心(AIDC),芯片概念) | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-14/1225471778.PDF) | 招股书PDF |
@@ -587,7 +587,7 @@
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 600346.SH | 恒力石化 | 136.25% | 19.15 | +1.32% | 1,381.8 |  | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-20/1225482026.PDF) | 招股书PDF |
 | 002493.SZ | 荣盛石化 | 748.83% | 14.48 | +0.77% | 1,374.4 |  | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-25/1225495698.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2010-10-19/58538768.PDF) |
-| 600688.SH | 上海石化 | 165.01% | 2.91 | +1.04% | 215.5 |  | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-20/1225482772.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/1993-08-08/148802.html) |
+| 600688.SH | 上海石化 | 165.01% | 2.91 | +1.04% | 215.5 |  | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-20/1225482772.PDF) | 招股书PDF |
 | 002408.SZ | 齐翔腾达 | 402.83% | 5.56 | +2.02% | 154.9 |  | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-25/1225496683.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2010-04-30/57898150.PDF) |
 | 000059.SZ | 华锦股份 | 136.92% | 5.57 | +10.08% | 89.1 |  | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-20/1225481751.PDF) | 招股书PDF |
 | 002221.SZ | 东华能源 | 224.38% | 5.75 | +1.95% | 85.9 |  | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-24/1225488428.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2008-02-21/37447101.PDF) |
@@ -633,10 +633,10 @@
 | 000155.SZ | 川能动力 | 130.73% | 12.25 | +1.07% | 228.4 |  | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-25/1225496246.PDF) | 招股书PDF |
 | 000966.SZ | 长源电力 | 82.39% | 4.03 | -0.25% | 141.0 |  | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-20/1225481857.PDF) | 招股书PDF |
 | 001258.SZ | 立新能源 | 715.75% | 13.59 | -1.24% | 124.6 |  | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-10/1225464861.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2022-07-12/1214008785.PDF) |
-| 600116.SH | 三峡水利 | 688.61% | 6.27 | -0.63% | 121.0 |  | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-21/1225485033.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/1997-07-23/148961.html) |
+| 600116.SH | 三峡水利 | 688.61% | 6.27 | -0.63% | 121.0 |  | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-21/1225485033.PDF) | 招股书PDF |
 | 002310.SZ | 东方新能 | 316.04% | 2.36 | +0.00% | 104.7 |  | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-27/1225511077.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2009-11-17/57298394.PDF) |
 | 002039.SZ | 黔源电力 | 83.14% | 19.20 | -0.41% | 82.6 |  | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-21/1225486402.PDF) | 招股书PDF |
-| 000601.SZ | 韶能股份 | 75.64% | 6.17 | -1.44% | 64.9 | ★AI(数据中心(AIDC),东数西算(算力)) | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-28/1225525389.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/1996-08-15/60431.html) |
+| 000601.SZ | 韶能股份 | 75.64% | 6.17 | -1.44% | 64.9 | ★AI(数据中心(AIDC),东数西算(算力)) | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-28/1225525389.PDF) | 招股书PDF |
 | 000722.SZ | 湖南发展 | 77.45% | 12.87 | -0.54% | 60.5 |  | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-26/1225504824.PDF) | 招股书PDF |
 | 600868.SH | 梅雁吉祥 | 92.52% | 2.86 | -0.35% | 55.6 |  | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-26/1225506507.PDF) | 招股书PDF |
 | 002479.SZ | 富春环保 | 72.11% | 5.91 | +1.55% | 51.5 |  | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-20/1225482158.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2010-09-07/58408969.PDF) |
@@ -672,7 +672,7 @@
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 300033.SZ | 同花顺 | 89.76% | 233.30 | +0.03% | 1,017.0 | ★AI(人工智能,多模态AI,AIGC概念) | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-22/1225491733.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2009-12-15/57398493.PDF) |
 | 601360.SH | 三六零 | 176.54% | 9.59 | +9.98% | 671.3 | ★AI(AI视频,人工智能,多模态AI) | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-20/1225483359.PDF) | 招股书PDF |
-| 300454.SZ | 深信服 | 201.58% | 128.19 | +6.83% | 360.3 | ★AI(数据中心(AIDC),英伟达概念,人工智能) | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-22/1225490793.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2018-05-04/1204906411.PDF) |
+| 300454.SZ | 深信服 | 201.58% | 128.19 | +6.83% | 360.3 | ★AI(数据中心(AIDC),英伟达概念,人工智能) | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-22/1225490793.PDF) | 招股书PDF |
 | 603039.SH | 泛微网络 | 74.68% | 40.37 | +1.74% | 122.7 | ★AI(人工智能,AI应用,中国AI50) | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-21/1225485065.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2016-12-29/1202972335.PDF) |
 | 300378.SZ | 鼎捷数智 | 318.50% | 37.45 | +19.99% | 100.9 | ★AI(芯片概念,人工智能,多模态AI) | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-28/1225521518.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2014-01-16/63489976.PDF) |
 | 002439.SZ | 启明星辰 | 132.98% | 13.83 | +3.06% | 99.9 | ★AI(数据中心(AIDC),人工智能,多模态AI) | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-22/1225491648.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2010-06-04/58030763.PDF) |
@@ -699,7 +699,7 @@
 | 603626.SH | 科森科技 | 358.32% | 19.45 | -1.97% | 108.1 | ★AI(AIPC,机器人概念) | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-25/1225494571.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2017-01-20/1203033961.PDF) |
 | 301086.SZ | 鸿富瀚 | 221.59% | 127.82 | +0.80% | 87.5 | ★AI(液冷服务器,机器人概念) | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-25/1225496426.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2021-09-28/1211165905.PDF) |
 | 301606.SZ | 绿联科技 | 56.90% | 52.42 | -0.55% | 85.7 |  | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-25/1225498856.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2024-07-19/1220676499.PDF) |
-| 600203.SH | 福日电子 | 277.41% | 10.67 | +0.09% | 63.6 | ★AI(芯片概念,人工智能,AI眼镜) | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-11/1225466282.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/1999-03-25/164272.html) |
+| 600203.SH | 福日电子 | 277.41% | 10.67 | +0.09% | 63.6 | ★AI(芯片概念,人工智能,AI眼镜) | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-11/1225466282.PDF) | 招股书PDF |
 | 001314.SZ | 亿道信息 | 1614.80% | 51.03 | -2.09% | 63.1 | ★AI(PCB概念,人工智能,多模态AI) | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-25/1225495655.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2023-01-30/1215682954.PDF) |
 | 002635.SZ | 安洁科技 | 165.12% | 15.60 | -0.95% | 61.3 | ★AI(共封装光学(CPO),传感器,机器人概念) | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-26/1225506772.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2011-11-15/60201542.PDF) |
 | 300686.SZ | 智动力 | 61.92% | 14.95 | -0.33% | 38.2 | ★AI(机器人概念) | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-22/1225491012.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2017-07-25/1203729050.PDF) |
@@ -734,7 +734,7 @@
 | 002901.SZ | 大博医疗 | 44.65% | 45.64 | +0.60% | 130.9 | ★AI(机器人概念) | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-27/1225509571.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2017-09-12/1203964895.PDF) |
 | 300171.SZ | 东富龙 | 134.49% | 15.33 | +2.27% | 86.5 | ★AI(机器人概念) | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-28/1225520000.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2011-01-21/58928082.PDF) |
 | 300358.SZ | 楚天科技 | 1280.71% | 9.10 | -0.87% | 64.1 | ★AI(人工智能,AI智能体,机器人概念) | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-25/1225495623.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2014-01-08/63464595.PDF) |
-| 300981.SZ | 中红医疗 | 2662.38% | 16.01 | -5.10% | 63.2 |  | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-26/1225501523.PDF) | 招股书PDF |
+| 300981.SZ | 中红医疗 | 2662.38% | 16.01 | -5.10% | 63.2 |  | 财报PDF | 招股书PDF |
 | 002382.SZ | 蓝帆医疗 | 179.72% | 6.05 | -1.31% | 60.5 |  | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-25/1225494094.PDF) | 招股书PDF |
 | 603387.SH | 基蛋生物 | 69.37% | 9.33 | -0.85% | 47.2 |  | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-27/1225511056.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2017-07-04/1203679965.PDF) |
 | 301234.SZ | 五洲医疗 | 46.11% | 102.76 | -2.84% | 39.6 |  | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-24/1225488256.PDF) | 招股书PDF |
@@ -808,17 +808,17 @@
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 000620.SZ | 盈新发展 | 153.38% | 3.40 | -1.45% | 157.9 | ★AI(存储芯片,数据中心(AIDC),芯片概念) | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-22/1225491794.PDF) | 招股书PDF |
 | 000656.SZ | 金科股份 | 100.25% | 1.27 | -1.55% | 97.9 |  | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-25/1225498263.PDF) | 招股书PDF |
-| 600736.SH | 苏州高新 | 247.58% | 6.92 | -1.00% | 79.7 | ★AI(芯片概念) | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-28/1225519139.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/1996-07-27/149261.html) |
+| 600736.SH | 苏州高新 | 247.58% | 6.92 | -1.00% | 79.7 | ★AI(芯片概念) | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-28/1225519139.PDF) | 招股书PDF |
 | 000402.SZ | 金融街 | 91.41% | 2.54 | +1.60% | 76.2 |  | 财报PDF | 招股书PDF |
 | 600748.SH | 上实发展 | 65.86% | 3.88 | +0.78% | 71.9 |  | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-22/1225490708.PDF) | 招股书PDF |
 | 600604.SH | 市北高新 | 50.04% | 4.96 | -0.40% | 69.2 |  | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-22/1225489113.PDF) | 招股书PDF |
 | 000560.SZ | 我爱我家 | 110.39% | 2.64 | +10.00% | 61.8 | ★AI(人工智能,AIGC概念) | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-28/1225517051.PDF) | 招股书PDF |
-| 000036.SZ | 华联控股 | 1260.83% | 4.11 | -0.48% | 57.9 |  | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-28/1225517168.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2003-06-30/10747925.html) |
+| 000036.SZ | 华联控股 | 1260.83% | 4.11 | -0.48% | 57.9 |  | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-28/1225517168.PDF) | 招股书PDF |
 | 000042.SZ | 中洲控股 | 421.76% | 8.57 | +0.23% | 57.2 |  | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-21/1225487831.PDF) | 招股书PDF |
 | 002146.SZ | 荣盛发展 | 64.18% | 1.19 | +1.71% | 46.5 |  | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-25/1225496022.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2007-07-23/30128343.PDF) |
 | 002016.SZ | 世荣兆业 | 252.90% | 4.70 | +1.08% | 38.6 |  | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-26/1225505079.PDF) | 招股书PDF |
 | 000736.SZ | 中交发展 | 101.55% | 4.66 | +3.33% | 35.0 | ★AI(数据中心(AIDC)) | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-20/1225481227.PDF) | 招股书PDF |
-| 600692.SH | 亚通股份 | 284.04% | 6.48 | +0.62% | 16.7 |  | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-26/1225502305.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/1993-08-06/148804.html) |
+| 600692.SH | 亚通股份 | 284.04% | 6.48 | +0.62% | 16.7 |  | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-26/1225502305.PDF) | 招股书PDF |
 
 ## 服装家纺（13 只）
 
@@ -833,7 +833,7 @@
 | 603116.SH | 红蜻蜓 | 138.97% | 6.43 | +0.16% | 37.3 | ★AI(AIGC概念,AI应用) | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-28/1225518875.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2015-06-17/1201161118.PDF) |
 | 002762.SZ | 金发拉比 | 104.74% | 9.37 | +2.07% | 33.7 |  | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-09-02/1225542181.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2015-06-01/1201083859.PDF) |
 | 605138.SH | 盛泰集团 | 413.47% | 5.94 | +1.02% | 33.4 |  | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-25/1225499132.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2021-09-23/1211132362.PDF) |
-| 603001.SH | 奥康国际 | 119.09% | 8.30 | -0.24% | 33.0 |  | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-08/1225464701.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2012-04-25/60901763.PDF) |
+| 603001.SH | 奥康国际 | 119.09% | 8.30 | -0.24% | 33.0 |  | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-08/1225464701.PDF) | 招股书PDF |
 | 002875.SZ | 安奈儿 | 85.75% | 13.10 | +1.16% | 28.1 |  | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-26/1225507254.PDF) | 招股书PDF |
 | 002574.SZ | 明牌珠宝 | 75.66% | 5.32 | +4.11% | 27.7 |  | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-27/1225509355.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2011-04-13/59259990.PDF) |
 | 002397.SZ | 梦洁股份 | 41.90% | 3.65 | +1.39% | 23.9 |  | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-21/1225487515.PDF) | 招股书PDF |
@@ -879,7 +879,7 @@
 | 000415.SZ | 渤海租赁 | 258.73% | 4.51 | +0.67% | 244.3 |  | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-22/1225488718.PDF) | 招股书PDF |
 | 600390.SH | 五矿资本 | 104.61% | 5.10 | -0.78% | 229.4 |  | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-27/1225512844.PDF) | 招股书PDF |
 | 600927.SH | 永安期货 | 64.45% | 13.25 | +0.08% | 190.7 |  | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-26/1225505509.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2021-11-16/1211591187.PDF) |
-| 600120.SH | 浙江东方 | 115.47% | 4.92 | -0.61% | 168.7 |  | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-18/1225477432.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/1997-11-12/149339.html) |
+| 600120.SH | 浙江东方 | 115.47% | 4.92 | -0.61% | 168.7 |  | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-18/1225477432.PDF) | 招股书PDF |
 | 300773.SZ | 拉卡拉 | 191.67% | 16.06 | -1.89% | 164.4 | ★AI(人工智能,AI应用,AI智能体) | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-08/1225464405.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2019-04-15/1206015151.PDF) |
 | 600816.SH | 建元信托 | 2559.08% | 2.54 | -0.78% | 138.9 |  | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-14/1225472568.PDF) | 招股书PDF |
 | 000567.SZ | 海德股份 | 815.77% | 6.83 | +7.22% | 136.6 |  | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-28/1225517335.PDF) | 招股书PDF |
@@ -900,7 +900,7 @@
 | 300749.SZ | 顶固集创 | 1678.13% | 24.99 | +0.28% | 39.4 | ★AI(人工智能) | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-24/1225491309.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2018-09-12/1205429982.PDF) |
 | 002162.SZ | 悦心健康 | 201.54% | 4.09 | +0.74% | 37.5 | ★AI(人工智能,机器人概念) | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-07-31/1225447599.PDF) | 招股书PDF |
 | 002798.SZ | 帝欧水华 | 65.22% | 5.91 | +0.51% | 30.6 | ★AI(人工智能) | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-25/1225499873.PDF) | 招股书PDF |
-| 002853.SZ | 皮阿诺 | 66.89% | 22.47 | +0.00% | 29.0 |  | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-27/1225513939.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2017-02-22/sme1203097404.js) |
+| 002853.SZ | 皮阿诺 | 66.89% | 22.47 | +0.00% | 29.0 |  | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-27/1225513939.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2017-02-22/1203097259.PDF) |
 | 002918.SZ | 蒙娜丽莎 | 970.18% | 11.33 | +10.00% | 24.3 |  | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-26/1225503489.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2017-12-06/1204195852.PDF) |
 | 603091.SH | 众鑫股份 | 66.61% | 50.28 | +0.56% | 22.2 |  | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-26/1225501752.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2024-09-12/1221204971.PDF) |
 
@@ -929,8 +929,8 @@
 | 002064.SZ | 华峰化学 | 101.64% | 11.71 | +0.77% | 594.2 |  | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-01/1225450795.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2006-08-04/17915972.PDF) |
 | 603225.SH | 新凤鸣 | 103.16% | 20.63 | +1.03% | 350.6 |  | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-28/1225518225.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2017-04-06/1203256242.PDF) |
 | 002254.SZ | 泰和新材 | 135.31% | 12.78 | +0.08% | 109.0 | ★AI(东数西算(算力),机器人概念) | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-25/1225494315.PDF) | 招股书PDF |
-| 000420.SZ | 吉林化纤 | 45.22% | 3.69 | +0.27% | 93.2 |  | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-27/1225508966.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/1996-07-20/60620.html) |
-| 600810.SH | 神马股份 | 149.14% | 6.64 | +1.07% | 72.1 |  | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-28/1225517074.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/1993-10-31/149765.html) |
+| 000420.SZ | 吉林化纤 | 45.22% | 3.69 | +0.27% | 93.2 |  | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-27/1225508966.PDF) | 招股书PDF |
+| 600810.SH | 神马股份 | 149.14% | 6.64 | +1.07% | 72.1 |  | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-28/1225517074.PDF) | 招股书PDF |
 | 603332.SH | 苏州龙杰 | 64.24% | 11.74 | +0.69% | 25.7 |  | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-18/1225476480.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2019-01-03/1205706060.PDF) |
 | 002998.SZ | 优彩资源 | 103.87% | 8.03 | -0.12% | 21.8 |  | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-07-16/1225427071.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2020-08-25/1208236305.PDF) |
 | 300876.SZ | 蒙泰高新 | 50.60% | 16.39 | +5.74% | 18.7 |  | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-21/1225484552.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2020-08-18/1208187197.PDF) |
@@ -989,11 +989,11 @@
 | 600655.SH | 豫园股份 | 157.17% | 4.68 | +0.86% | 182.4 |  | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-21/1225486793.PDF) | 招股书PDF |
 | 000829.SZ | 天音控股 | 125.34% | 8.69 | -0.23% | 90.0 | ★AI(AI手机,人工智能,AI智能体) | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-28/1225520783.PDF) | 招股书PDF |
 | 601086.SH | 国芳集团 | 214.09% | 8.34 | +10.03% | 55.5 |  | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-26/1225501482.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2017-09-19/1203985436.PDF) |
-| 600790.SH | 轻纺城 | 127.56% | 3.42 | +1.18% | 50.4 | ★AI(AI应用,AI智能体) | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-25/1225497201.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/1997-01-17/148776.html) |
+| 600790.SH | 轻纺城 | 127.56% | 3.42 | +1.18% | 50.4 | ★AI(AI应用,AI智能体) | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-25/1225497201.PDF) | 招股书PDF |
 | 603101.SH | 汇嘉时代 | 46.40% | 7.59 | +2.02% | 36.1 |  | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-07-31/1225449489.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2016-04-22/1202220589.PDF) |
 | 300622.SZ | 博士眼镜 | 48.20% | 14.92 | +0.67% | 32.9 | ★AI(AI眼镜) | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-28/1225517622.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2017-03-01/1203117337.PDF) |
 | 002818.SZ | 富森美 | 96.03% | 10.75 | +1.03% | 32.1 |  | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-26/1225501804.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2016-10-24/1202777847.PDF) |
-| 600712.SH | 南宁百货 | 110.59% | 5.55 | +1.83% | 30.2 |  | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-21/1225486210.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/1996-05-29/148813.html) |
+| 600712.SH | 南宁百货 | 110.59% | 5.55 | +1.83% | 30.2 |  | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-21/1225486210.PDF) | 招股书PDF |
 
 ## 食品加工制造（9 只）
 
@@ -1035,7 +1035,7 @@
 | 600123.SH | 兰花科创 | 44.60% | 7.31 | -0.14% | 108.3 |  | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-25/1225494991.PDF) | 招股书PDF |
 | 600971.SH | 恒源煤电 | 224.79% | 9.02 | +0.67% | 108.0 |  | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-21/1225484528.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2004-07-28/14373733.PDF) |
 | 000552.SZ | 甘肃能化 | 190.69% | 2.72 | +2.64% | 102.1 |  | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-25/1225495702.PDF) | 招股书PDF |
-| 600740.SH | 山西焦化 | 81.18% | 3.95 | +1.28% | 101.5 |  | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-25/1225497638.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/1996-06-25/149264.html) |
+| 600740.SH | 山西焦化 | 81.18% | 3.95 | +1.28% | 101.5 |  | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-25/1225497638.PDF) | 招股书PDF |
 
 ## 军工电子（9 只）
 
@@ -1138,7 +1138,7 @@
 | 600279.SH | 重庆港 | 333.86% | 4.39 | +0.46% | 52.3 |  | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-25/1225494975.PDF) | 招股书PDF |
 | 603209.SH | 兴通股份 | 57.11% | 14.28 | +0.71% | 46.1 | ★AI(人工智能,AI智能体,智谱AI) | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-19/1225480739.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2022-02-21/1212404105.PDF) |
 | 000520.SZ | 凤凰航运 | 2329.69% | 4.28 | +1.42% | 43.2 |  | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-20/1225481533.PDF) | 招股书PDF |
-| 600798.SH | 宁波海运 | 76.05% | 3.32 | +0.91% | 40.2 |  | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-25/1225497078.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/1997-03-14/148782.html) |
+| 600798.SH | 宁波海运 | 76.05% | 3.32 | +0.91% | 40.2 |  | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-25/1225497078.PDF) | 招股书PDF |
 
 ## 其他社会服务（7 只）
 
@@ -1239,7 +1239,7 @@
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 601061.SH | 中信金属 | 84.55% | 12.05 | +1.09% | 590.5 |  | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-21/1225486621.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2023-04-03/1216306660.PDF) |
 | 000626.SZ | 远大控股 | 640.14% | 9.12 | +6.67% | 47.5 |  | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-18/1225477603.PDF) | 招股书PDF |
-| 600725.SH | 云维股份 | 86.86% | 3.39 | +0.30% | 41.9 |  | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-25/1225497092.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/1996-06-06/149377.html) |
+| 600725.SH | 云维股份 | 86.86% | 3.39 | +0.30% | 41.9 |  | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-25/1225497092.PDF) | 招股书PDF |
 | 000701.SZ | 厦门信达 | 855.35% | 5.15 | +0.98% | 34.5 | ★AI(AIGC概念,算力租赁) | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-20/1225482943.PDF) | 招股书PDF |
 | 002072.SZ | 凯瑞德 | 59.90% | 8.45 | -5.06% | 34.0 | ★AI(存储芯片) | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-25/1225498268.PDF) | 招股书PDF |
 | 000151.SZ | 中成股份 | 137.08% | 10.17 | +0.49% | 31.6 |  | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-27/1225511200.PDF) | 招股书PDF |
@@ -1289,8 +1289,8 @@
 
 | 代码 | 名称 | 归母净利润增速 | 最新价 | 当日涨跌 | 流通市值(亿) | AI链 | 财报 | 招股书 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 000523.SZ | 红棉股份 | 127.05% | 3.54 | +3.51% | 63.9 |  | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-27/1225508206.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/1993-09-16/53100.html) |
-| 600189.SH | 泉阳泉 | 65.03% | 7.69 | +2.95% | 55.9 |  | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-25/1225498925.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/1998-09-03/157630.html) |
+| 000523.SZ | 红棉股份 | 127.05% | 3.54 | +3.51% | 63.9 |  | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-27/1225508206.PDF) | 招股书PDF |
+| 600189.SH | 泉阳泉 | 65.03% | 7.69 | +2.95% | 55.9 |  | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-25/1225498925.PDF) | 招股书PDF |
 | 603711.SH | 香飘飘 | 111.15% | 11.71 | +2.09% | 49.7 |  | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-15/1225474378.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2017-11-20/1204151941.PDF) |
 | 605300.SH | 佳禾食品 | 130.41% | 9.75 | +0.83% | 44.9 |  | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-27/1225513823.PDF) | 招股书PDF |
 | 600419.SH | 天润乳业 | 348.21% | 8.81 | +1.15% | 28.0 |  | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-21/1225485307.PDF) | 招股书PDF |
@@ -1396,7 +1396,7 @@
 | 代码 | 名称 | 归母净利润增速 | 最新价 | 当日涨跌 | 流通市值(亿) | AI链 | 财报 | 招股书 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 600221.SH | 海航控股 | 374.43% | 1.32 | +0.00% | 561.3 |  | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-25/1225497625.PDF) | 招股书PDF |
-| 000089.SZ | 深圳机场 | 135.97% | 6.54 | +0.77% | 134.7 |  | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-20/1225482716.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/1998-03-03/61542.html) |
+| 000089.SZ | 深圳机场 | 135.97% | 6.54 | +0.77% | 134.7 |  | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-20/1225482716.PDF) | 招股书PDF |
 
 ## 公路铁路运输（2 只）
 
@@ -1416,7 +1416,7 @@
 
 | 代码 | 名称 | 归母净利润增速 | 最新价 | 当日涨跌 | 流通市值(亿) | AI链 | 财报 | 招股书 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 600770.SH | 综艺股份 | 136.92% | 5.14 | -0.77% | 66.8 | ★AI(芯片概念,人工智能,第三代半导体) | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-07/1225461657.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/1996-10-29/148827.html) |
+| 600770.SH | 综艺股份 | 136.92% | 5.14 | -0.77% | 66.8 | ★AI(芯片概念,人工智能,第三代半导体) | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-07/1225461657.PDF) | 招股书PDF |
 | 000421.SZ | 南京公用 | 163.53% | 5.75 | +0.70% | 33.2 |  | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-24/1225488146.PDF) | 招股书PDF |
 
 ## 汽车服务及其他（2 只）
@@ -1489,7 +1489,7 @@
 | 600487.SH | 亨通光电 | 93.38% | 通信设备 | 1,698.9 | 数据中心(AIDC),芯片概念,液冷服务器,人形机器人,共封装光学(CPO),机器人概念 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-27/1225513678.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2003-08-04/10931420.PDF) |
 | 002281.SZ | 光迅科技 | 56.34% | 通信设备 | 1,377.1 | 数据中心(AIDC),芯片概念,液冷服务器,东数西算(算力),共封装光学(CPO) | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-20/1225482609.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2009-08-07/55519671.PDF) |
 | 300604.SZ | 长川科技 | 125.67% | 半导体 | 1,364.2 | 存储芯片,芯片概念 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-28/1225523217.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2017-03-30/1203226281.PDF) |
-| 600584.SH | 长电科技 | 79.41% | 半导体 | 1,349.0 | 存储芯片,数据中心(AIDC),芯片概念,人工智能,共封装光学(CPO),第三代半导体,汽车芯片,机器人概念 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-21/1225487900.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2003-05-14/10702920.PDF) |
+| 600584.SH | 长电科技 | 79.41% | 半导体 | 1,349.0 | 存储芯片,数据中心(AIDC),芯片概念,人工智能,共封装光学(CPO),第三代半导体,汽车芯片,机器人概念 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-21/1225487900.PDF) | 招股书PDF |
 | 301165.SZ | 锐捷网络 | 53.54% | 通信设备 | 1,344.0 | 数据中心(AIDC),液冷服务器,人工智能,AIGC概念,东数西算(算力),共封装光学(CPO),AI应用,中国AI50,AI智能体 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-15/1225473451.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2022-11-16/1215117998.PDF) |
 | 601600.SH | 中国铝业 | 67.91% | 工业金属 | 1,296.6 | PCB概念 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-28/1225520152.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2007-09-14/31667916.PDF) |
 | 300857.SZ | 协创数据 | 325.51% | 计算机设备 | 1,241.1 | AI视频,存储芯片,数据中心(AIDC),芯片概念,英伟达概念,人工智能,人形机器人,AIGC概念,东数西算(算力),算力租赁,共封装光学(CPO),AI应用,AI智能体,AI眼镜,机器人概念 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-28/1225522071.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2020-07-13/1208025555.PDF) |
@@ -1548,7 +1548,7 @@
 | 603806.SH | 福斯特 | 69.89% | 光伏设备 | 397.6 | PCB概念 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-20/1225482040.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2014-08-27/1200175623.PDF) |
 | 300919.SZ | 中伟新材 | 77.80% | 电池 | 373.1 | 机器人概念 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-25/1225497863.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2025-11-07/1224791718.PDF) |
 | 301511.SZ | 德福科技 | 580.66% | 电池 | 360.6 | PCB概念,存储芯片,共封装光学(CPO) | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-22/1225491029.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2023-08-10/1217501319.PDF) |
-| 300454.SZ | 深信服 | 201.58% | 软件开发 | 360.3 | 数据中心(AIDC),英伟达概念,人工智能,东数西算(算力),算力租赁,AI应用,中国AI50,AI智能体,机器人概念 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-22/1225490793.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2018-05-04/1204906411.PDF) |
+| 300454.SZ | 深信服 | 201.58% | 软件开发 | 360.3 | 数据中心(AIDC),英伟达概念,人工智能,东数西算(算力),算力租赁,AI应用,中国AI50,AI智能体,机器人概念 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-22/1225490793.PDF) | 招股书PDF |
 | 300037.SZ | 新宙邦 | 103.33% | 电池 | 359.9 | 存储芯片,数据中心(AIDC),芯片概念,液冷服务器 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-21/1225487090.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2009-12-23/57427558.PDF) |
 | 603929.SH | 亚翔集成 | 204.80% | 建筑装饰 | 353.9 | 芯片概念 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-07-31/1225448579.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2016-12-19/1202887887.PDF) |
 | 605358.SH | 立昂微 | 166.11% | 半导体 | 335.1 | 存储芯片,芯片概念,人形机器人,共封装光学(CPO),第三代半导体,汽车芯片,机器人概念 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-08/1225464770.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2020-08-31/1208346039.PDF) |
@@ -1559,7 +1559,7 @@
 | 300748.SZ | 金力永磁 | 51.58% | 金属新材料 | 306.7 | 人形机器人,机器人概念 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-21/1225485582.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2018-09-05/1205372138.PDF) |
 | 002432.SZ | 九安医疗 | 233.66% | 医疗器械 | 296.8 | AI应用 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-25/1225497260.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2010-05-28/58003053.PDF) |
 | 603061.SH | 金海通 | 125.21% | 半导体 | 296.7 | 芯片概念 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-27/1225512759.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2023-02-16/1215874398.PDF) |
-| 000737.SZ | 北方铜业 | 186.61% | 工业金属 | 292.7 | PCB概念 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-27/1225513792.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/1997-04-01/53230.html) |
+| 000737.SZ | 北方铜业 | 186.61% | 工业金属 | 292.7 | PCB概念 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-27/1225513792.PDF) | 招股书PDF |
 | 600536.SH | 中国软件 | 83.36% | IT服务 | 285.4 | 数据中心(AIDC),人工智能,AIPC,中国AI50,机器人概念 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-26/1225505961.PDF) | 招股书PDF |
 | 002245.SZ | 蔚蓝锂芯 | 53.39% | 电池 | 284.8 | 数据中心(AIDC),芯片概念,人形机器人,机器人概念 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-18/1225477887.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2008-05-23/39952168.PDF) |
 | 002396.SZ | 星网锐捷 | 75.86% | 通信设备 | 277.9 | 数据中心(AIDC),人工智能,AIGC概念,共封装光学(CPO),AI应用,机器人概念 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-15/1225474592.PDF) | 招股书PDF |
@@ -1611,7 +1611,7 @@
 | 603283.SH | 赛腾股份 | 47.79% | 自动化设备 | 167.8 | PCB概念,存储芯片,芯片概念,人工智能 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-25/1225497737.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2017-12-12/1204215970.PDF) |
 | 300657.SZ | 弘信电子 | 129.59% | 元件 | 166.9 | PCB概念,数据中心(AIDC),AI手机,英伟达概念,液冷服务器,东数西算(算力),算力租赁,AIPC,共封装光学(CPO),传感器,AI眼镜,机器人概念,智谱AI | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-21/1225484595.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2017-05-11/1203496107.PDF) |
 | 300773.SZ | 拉卡拉 | 191.67% | 多元金融 | 164.4 | 人工智能,AI应用,AI智能体 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-08/1225464405.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2019-04-15/1206015151.PDF) |
-| 300613.SZ | 富瀚微 | 1419.20% | 半导体 | 164.3 | 芯片概念,人工智能,人形机器人,东数西算(算力),AI眼镜,汽车芯片,机器人概念 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-28/1225516041.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2017-02-06/chinext1203064838.js) |
+| 300613.SZ | 富瀚微 | 1419.20% | 半导体 | 164.3 | 芯片概念,人工智能,人形机器人,东数西算(算力),AI眼镜,汽车芯片,机器人概念 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-28/1225516041.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2017-02-06/1203064827.PDF) |
 | 300503.SZ | 昊志机电 | 266.57% | 通用设备 | 163.9 | PCB概念,芯片概念,人工智能,人形机器人,传感器,机器人概念 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-07-21/1225432105.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2016-02-26/1202000337.PDF) |
 | 300953.SZ | 震裕科技 | 100.30% | 电池 | 162.4 | 人形机器人,机器人概念 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-27/1225510352.PDF) | 招股书PDF |
 | 605289.SH | 罗曼股份 | 444.10% | 建筑装饰 | 160.5 | 数据中心(AIDC),液冷服务器,人工智能,东数西算(算力) | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-27/1225513430.PDF) | 招股书PDF |
@@ -1647,7 +1647,7 @@
 | 001339.SZ | 智微智能 | 281.92% | 计算机设备 | 125.3 | 芯片概念,英伟达概念,人工智能,人形机器人,东数西算(算力),算力租赁,AIPC,中国AI50,机器人概念 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-07-18/1225430474.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2022-08-03/1214204137.PDF) |
 | 300455.SZ | 航天智装 | 101.66% | 计算机设备 | 124.7 | 存储芯片,芯片概念,人工智能,MCU芯片,机器人概念 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-08/1225463263.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2015-05-05/1200963002.PDF) |
 | 002745.SZ | 木林森 | 330.68% | 光学光电子 | 124.1 | PCB概念,人工智能,机器人概念 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-28/1225522771.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2015-02-09/1200620630.PDF) |
-| 600776.SH | 东方通信 | 143.18% | 通信设备 | 123.7 | AI智能体 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-27/1225509905.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/1996-07-12/149193.html) |
+| 600776.SH | 东方通信 | 143.18% | 通信设备 | 123.7 | AI智能体 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-27/1225509905.PDF) | 招股书PDF |
 | 300671.SZ | 富满微 | 353.41% | 半导体 | 123.6 | 存储芯片,芯片概念,第三代半导体,MCU芯片,汽车芯片 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-07-30/1225447229.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2017-06-22/1203638944.PDF) |
 | 603039.SH | 泛微网络 | 74.68% | 软件开发 | 122.7 | 人工智能,AI应用,中国AI50,AI智能体 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-21/1225485065.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2016-12-29/1202972335.PDF) |
 | 300070.SZ | 碧水源 | 128.49% | 环境治理 | 122.1 | 人工智能 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-25/1225497169.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2010-04-07/57778880.PDF) |
@@ -1715,7 +1715,7 @@
 | 300480.SZ | 光力科技 | 194.56% | 专用设备 | 81.0 | 存储芯片,芯片概念,共封装光学(CPO),第三代半导体,传感器,机器人概念 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-19/1225480511.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2015-06-19/1201169476.PDF) |
 | 300042.SZ | 朗科科技 | 632.43% | 计算机设备 | 80.0 | 存储芯片,芯片概念,东数西算(算力),算力租赁,AI眼镜,汽车芯片 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-08/1225463226.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2009-12-23/57427544.PDF) |
 | 002516.SZ | 旷达科技 | 45.85% | 汽车零部件 | 79.7 | 芯片概念,机器人概念 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-28/1225517151.PDF) | 招股书PDF |
-| 600736.SH | 苏州高新 | 247.58% | 房地产 | 79.7 | 芯片概念 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-28/1225519139.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/1996-07-27/149261.html) |
+| 600736.SH | 苏州高新 | 247.58% | 房地产 | 79.7 | 芯片概念 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-28/1225519139.PDF) | 招股书PDF |
 | 002115.SZ | 三维通信 | 1825.74% | 通信服务 | 79.6 | 人工智能,AIGC概念,AI应用 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-18/1225477612.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2007-01-31/20595028.PDF) |
 | 001232.SZ | 嘉立创 | 73.54% | 元件 | 77.7 | PCB概念,芯片概念,人形机器人 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-27/1225514252.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2026-07-30/1225447126.PDF) |
 | 600545.SH | 卓郎智能 | 61.90% | 专用设备 | 77.4 | AI智能体,机器人概念 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-28/1225518246.PDF) | 招股书PDF |
@@ -1738,22 +1738,22 @@
 | 300093.SZ | 金刚光伏 | 60.55% | 光伏设备 | 68.6 | 算力租赁 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-26/1225502160.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2010-06-25/58097351.PDF) |
 | 301717.SZ | 超纯应材 | 85.46% | 半导体 | 68.2 | 芯片概念 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-27/1225510301.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2026-08-06/1225460578.PDF) |
 | 002042.SZ | 华孚时尚 | 607.08% | 纺织制造 | 67.2 | 数据中心(AIDC),AIGC概念,东数西算(算力),算力租赁 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-27/1225514468.PDF) | 招股书PDF |
-| 600770.SH | 综艺股份 | 136.92% | 综合 | 66.8 | 芯片概念,人工智能,第三代半导体,汽车芯片 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-07/1225461657.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/1996-10-29/148827.html) |
+| 600770.SH | 综艺股份 | 136.92% | 综合 | 66.8 | 芯片概念,人工智能,第三代半导体,汽车芯片 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-07/1225461657.PDF) | 招股书PDF |
 | 002421.SZ | 达实智能 | 79.50% | IT服务 | 66.4 | 数据中心(AIDC),液冷服务器,人工智能,东数西算(算力),AI应用,AI智能体,机器人概念 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-15/1225474630.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2010-05-21/57977309.PDF) |
 | 603466.SH | 风语筑 | 452.84% | 文化传媒 | 66.0 | AI视频,人形机器人,AIGC概念,机器人概念 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-27/1225512162.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2017-10-09/1204016334.PDF) |
 | 301366.SZ | 一博科技 | 1561.55% | 元件 | 66.0 | PCB概念,数据中心(AIDC),芯片概念,英伟达概念,人工智能,人形机器人,东数西算(算力),共封装光学(CPO),机器人概念 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-03/1225450272.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2022-09-21/1214636928.PDF) |
 | 300252.SZ | 金信诺 | 384.65% | 军工电子 | 65.8 | PCB概念,数据中心(AIDC),芯片概念,人工智能,东数西算(算力),铜缆高速连接,共封装光学(CPO) | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-26/1225501380.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2011-07-29/59740585.PDF) |
 | 300493.SZ | 润欣科技 | 54.44% | 其他电子 | 65.4 | 存储芯片,数据中心(AIDC),芯片概念,人工智能,传感器,AI眼镜,汽车芯片 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-27/1225508449.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2015-11-30/1201796554.PDF) |
 | 603489.SH | 八方股份 | 233.27% | 电机 | 64.9 | 传感器 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-28/1225520360.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2019-10-08/1206965024.PDF) |
-| 600775.SH | 南京熊猫 | 42.92% | 通信设备 | 64.9 | 人工智能,东数西算(算力),AI眼镜,机器人概念 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-27/1225509295.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/1996-11-04/148828.html) |
-| 000601.SZ | 韶能股份 | 75.64% | 电力 | 64.9 | 数据中心(AIDC),东数西算(算力) | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-28/1225525389.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/1996-08-15/60431.html) |
+| 600775.SH | 南京熊猫 | 42.92% | 通信设备 | 64.9 | 人工智能,东数西算(算力),AI眼镜,机器人概念 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-27/1225509295.PDF) | 招股书PDF |
+| 000601.SZ | 韶能股份 | 75.64% | 电力 | 64.9 | 数据中心(AIDC),东数西算(算力) | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-28/1225525389.PDF) | 招股书PDF |
 | 002990.SZ | 盛视科技 | 342.91% | 计算机设备 | 64.9 | 存储芯片,芯片概念,人工智能,人形机器人,多模态AI,AIGC概念,东数西算(算力),AI应用,传感器,AI智能体,机器人概念 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-20/1225483245.PDF) | 招股书PDF |
 | 300678.SZ | 中科信息 | 49.11% | IT服务 | 64.8 | 数据中心(AIDC),人工智能,多模态AI,AIGC概念,AI应用,AI智能体,机器人概念 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-28/1225518658.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2017-07-12/1203694439.PDF) |
 | 301191.SZ | 菲菱科思 | 59.04% | 通信设备 | 64.8 | 数据中心(AIDC),芯片概念 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-28/1225521878.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2022-05-13/1213339279.PDF) |
 | 301607.SZ | 富特科技 | 135.76% | 汽车零部件 | 64.6 | 第三代半导体 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-28/1225516160.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2024-08-30/1221052140.PDF) |
 | 300358.SZ | 楚天科技 | 1280.71% | 医疗器械 | 64.1 | 人工智能,AI智能体,机器人概念 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-25/1225495623.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2014-01-08/63464595.PDF) |
 | 300221.SZ | 银禧科技 | 95.45% | 塑料制品 | 63.6 | PCB概念,机器人概念 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-15/1225474739.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2011-05-13/59422840.PDF) |
-| 600203.SH | 福日电子 | 277.41% | 消费电子 | 63.6 | 芯片概念,人工智能,AI眼镜,机器人概念 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-11/1225466282.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/1999-03-25/164272.html) |
+| 600203.SH | 福日电子 | 277.41% | 消费电子 | 63.6 | 芯片概念,人工智能,AI眼镜,机器人概念 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-11/1225466282.PDF) | 招股书PDF |
 | 603197.SH | 保隆科技 | 95.79% | 汽车零部件 | 63.5 | 人工智能,传感器,机器人概念 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-27/1225513711.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2017-05-08/1203483908.PDF) |
 | 601500.SH | 通用股份 | 114.84% | 汽车零部件 | 63.5 | AI应用 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-28/1225518109.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2016-09-02/1202671131.PDF) |
 | 001314.SZ | 亿道信息 | 1614.80% | 消费电子 | 63.1 | PCB概念,人工智能,多模态AI,AIGC概念,AIPC,AI眼镜,机器人概念 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-25/1225495655.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2023-01-30/1215682954.PDF) |
@@ -1811,7 +1811,7 @@
 | 300283.SZ | 温州宏丰 | 2521.90% | 电网设备 | 51.1 | PCB概念,数据中心(AIDC),芯片概念,第三代半导体 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-07/1225461304.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2011-12-27/60371990.PDF) |
 | 300488.SZ | 恒锋工具 | 41.33% | 通用设备 | 50.7 | 人形机器人,机器人概念 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-24/1225490184.pdf) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2015-06-19/1201169481.PDF) |
 | 300016.SZ | 北陆药业 | 166.13% | 化学制药 | 50.6 | 人工智能,AI应用 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-25/1225494683.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2009-10-12/57131181.PDF) |
-| 600790.SH | 轻纺城 | 127.56% | 零售 | 50.4 | AI应用,AI智能体 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-25/1225497201.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/1997-01-17/148776.html) |
+| 600790.SH | 轻纺城 | 127.56% | 零售 | 50.4 | AI应用,AI智能体 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-25/1225497201.PDF) | 招股书PDF |
 | 002713.SZ | 东易日盛 | 74.48% | 建筑装饰 | 50.4 | 数据中心(AIDC),人工智能,AIGC概念,东数西算(算力),算力租赁,AI应用 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-26/1225501315.PDF) | 招股书PDF |
 | 300964.SZ | 本川智能 | 98.99% | 元件 | 50.3 | PCB概念,共封装光学(CPO),机器人概念 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-26/1225501594.PDF) | 招股书PDF |
 | 605228.SH | 神通科技 | 43.94% | 汽车零部件 | 50.0 | 机器人概念 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-07-23/1225437446.PDF) | 招股书PDF |
@@ -1868,7 +1868,7 @@
 | 300749.SZ | 顶固集创 | 1678.13% | 家居用品 | 39.4 | 人工智能 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-24/1225491309.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2018-09-12/1205429982.PDF) |
 | 300504.SZ | 天邑股份 | 231.61% | 通信设备 | 39.1 | AI眼镜 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-26/1225504482.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2018-03-20/1204492304.PDF) |
 | 603058.SH | 永吉股份 | 44.72% | 包装印刷 | 39.0 | 芯片概念,AIGC概念,第三代半导体,AI智能体 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-01/1225451568.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2016-12-09/1202866627.PDF) |
-| 000599.SZ | 青岛双星 | 503.71% | 汽车零部件 | 39.0 | 机器人概念 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-14/1225472611.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/1996-04-03/60429.html) |
+| 000599.SZ | 青岛双星 | 503.71% | 汽车零部件 | 39.0 | 机器人概念 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-14/1225472611.PDF) | 招股书PDF |
 | 600520.SH | 三佳科技 | 198.22% | 专用设备 | 38.9 | 芯片概念,机器人概念 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-27/1225508416.PDF) | 招股书PDF |
 | 300071.SZ | 福石控股 | 105.60% | 文化传媒 | 38.7 | AI视频,人工智能,多模态AI,AIGC概念,AI语料,AI应用 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-26/1225501732.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2010-04-07/57778719.PDF) |
 | 300629.SZ | 新劲刚 | 292.75% | 军工电子 | 38.7 | 芯片概念 | [财报PDF](http://static.cninfo.com.cn/finalpage/2026-08-28/1225522001.PDF) | [招股书PDF](http://static.cninfo.com.cn/finalpage/2017-03-09/chinext1203142632.js) |
