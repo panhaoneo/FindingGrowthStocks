@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(ls -R /home/pan/TradingAgents/FindingGrowthStocks/reports/603162_海通发展 /home/pan/TradingAgents/FindingGrowthStocks/reports/603268_松发股份 2>/dev/null | head -50)"
+    ]
+  }
+}

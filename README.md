@@ -22,6 +22,10 @@ Each report contains five modules:
 4. **风险评估** — Aggressive / conservative / neutral risk analyst debate
 5. **策略参考** — Final rating, entry/exit prices, position sizing, key indicators to track
 
+## Major Restructuring Watch
+
+Event-driven reports on major asset restructurings are organized under `restructuring/`, one markdown file per stock (e.g. `002155_湖南黄金.md`). The watch list page is generated under `select/` (e.g. `restructuring_watch_2026-09-10.md`) and links to each report.
+
 ## View Online
 
 Reports are automatically deployed to GitHub Pages on push to `main`.

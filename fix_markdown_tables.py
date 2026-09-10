@@ -14,7 +14,7 @@ import sys
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent
-TARGETS = [ROOT / "reports", ROOT / "select"]
+TARGETS = [ROOT / "reports", ROOT / "select", ROOT / "restructuring"]
 _SEP_CELL = re.compile(r"^\s*:?-{2,}:?\s*$")
 
 

@@ -9,6 +9,7 @@ import markdown
 ROOT = Path(__file__).resolve().parent
 REPORTS_DIR = ROOT / "reports"
 SELECT_DIR = ROOT / "select"
+RESTRUCTURING_DIR = ROOT / "restructuring"
 SITE_DIR = ROOT / "_site"
 
 PAGE_CSS = """
@@ -87,12 +88,20 @@ def render_page(title: str, body_html: str, back_href: str) -> str:
 """
 
 
+_MD_LINK = re.compile(r'href="(?!https?://|mailto:|#)([^"]+)\.md"')
+
+
+def rewrite_md_links(body_html: str) -> str:
+    """Point relative .md links at their built .html counterparts."""
+    return _MD_LINK.sub(r'href="\1.html"', body_html)
+
+
 def convert_markdown_file(md: markdown.Markdown, md_file: Path) -> tuple[str, str]:
     text = md_file.read_text(encoding="utf-8")
     first_line = text.strip().splitlines()[0] if text.strip() else ""
     title = re.sub(r"^#+\s*", "", first_line).strip() or md_file.stem
     md.reset()
-    return title, md.convert(text)
+    return title, rewrite_md_links(md.convert(text))
 
 
 def main() -> None:
@@ -134,17 +143,35 @@ def main() -> None:
             else:
                 md.reset()
                 body_html = md.convert(text)
+            body_html = rewrite_md_links(body_html)
             out_dir = SITE_DIR / "select"
             out_dir.mkdir(parents=True, exist_ok=True)
             out_file = out_dir / f"{md_file.stem}.html"
             out_file.write_text(render_page(title, body_html, "../index.html"), encoding="utf-8")
             select_entries.append((title, f"select/{md_file.stem}.html"))
 
+    restructuring_entries: list[tuple[str, str]] = []
+    if RESTRUCTURING_DIR.is_dir():
+        for md_file in sorted(RESTRUCTURING_DIR.glob("*.md")):
+            title, body_html = convert_markdown_file(md, md_file)
+            out_dir = SITE_DIR / "restructuring"
+            out_dir.mkdir(parents=True, exist_ok=True)
+            out_file = out_dir / f"{md_file.stem}.html"
+            out_file.write_text(render_page(title, body_html, "../index.html"), encoding="utf-8")
+            restructuring_entries.append((title, f"restructuring/{md_file.stem}.html"))
+
     sections = []
     if select_entries:
         sections.append("<h2>选股结果</h2>")
         sections.append('<ul class="report-list">')
         for title, href in select_entries:
+            sections.append(f'<li><a href="{html.escape(href)}">{html.escape(title)}</a></li>')
+        sections.append("</ul>")
+
+    if restructuring_entries:
+        sections.append("<h2>重大资产重组观察组 · 信息报告</h2>")
+        sections.append('<ul class="report-list">')
+        for title, href in restructuring_entries:
             sections.append(f'<li><a href="{html.escape(href)}">{html.escape(title)}</a></li>')
         sections.append("</ul>")
 
@@ -189,7 +216,10 @@ def main() -> None:
 </html>
 """
     (SITE_DIR / "index.html").write_text(index_html, encoding="utf-8")
-    print(f"Built {len(groups)} stock groups and {len(select_entries)} select files into {SITE_DIR}")
+    print(
+        f"Built {len(groups)} stock groups, {len(select_entries)} select files and "
+        f"{len(restructuring_entries)} restructuring reports into {SITE_DIR}"
+    )
 
 
 if __name__ == "__main__":
