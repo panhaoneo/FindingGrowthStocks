@@ -1,7 +1,19 @@
 {
   "permissions": {
     "allow": [
-      "Bash(ls -R /home/pan/TradingAgents/FindingGrowthStocks/reports/603162_海通发展 /home/pan/TradingAgents/FindingGrowthStocks/reports/603268_松发股份 2>/dev/null | head -50)"
+      "Bash(ls -R /home/pan/TradingAgents/FindingGrowthStocks/reports/603162_海通发展 /home/pan/TradingAgents/FindingGrowthStocks/reports/603268_松发股份 2>/dev/null | head -50)",
+      "WebFetch",
+      "WebFetch(*)",
+      "WebFetch(*)",
+      "WebFetch(*)",
+      "WebFetch(*)",
+      "WebFetch(*)",
+      "WebFetch(*)",
+      "WebFetch(*)",
+      "WebFetch(*)",
+      "WebFetch(*)",
+      "Bash(ls -la /home/pan/TradingAgents/FindingGrowthStocks/restructuring/ 2>/dev/null | head -30; echo \"---\"; ls /home/pan/TradingAgents/FindingGrowthStocks/select/ 2>/dev/null | grep -i restruct)",
+      "Bash(grep -n -E \"300368|600666|300333|600725|002859|300862\" /home/pan/TradingAgents/FindingGrowthStocks/select/restructuring_watch_2026-09-10.md | head -40)"
     ]
   }
 }
