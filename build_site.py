@@ -8,6 +8,7 @@ Site hierarchy:
   select/index.html     — stock screen results
 """
 import html
+import json
 import re
 from pathlib import Path
 
@@ -40,6 +41,7 @@ ul, ol { padding-left: 1.5rem; margin: 0.6rem 0; }
 li { margin: 0.25rem 0; }
 .nav { margin-bottom: 1.5rem; font-size: 0.9rem; color: #656d76; }
 .nav a { font-size: 0.9rem; }
+.chart-box { position: relative; height: 340px; margin: 1.25rem 0; }
 """
 
 INDEX_CSS = """
@@ -109,14 +111,15 @@ FOOTER = """
 """
 
 
-def render_page(title: str, body_html: str, nav_html: str) -> str:
+def render_page(title: str, body_html: str, nav_html: str, has_charts: bool = False) -> str:
+    chart_head = f'\n<script src="{CHART_JS_CDN}"></script>' if has_charts else ""
     return f"""<!DOCTYPE html>
 <html lang="zh-CN">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>{html.escape(title)}</title>
-<style>{PAGE_CSS}</style>
+<style>{PAGE_CSS}</style>{chart_head}
 </head>
 <body>
 <div class="nav">{nav_html}</div>
@@ -151,12 +154,109 @@ def rewrite_md_links(body_html: str) -> str:
     return _MD_LINK.sub(r'href="\1.html"', body_html)
 
 
-def convert_markdown_file(md: markdown.Markdown, md_file: Path) -> tuple[str, str]:
+CHART_JS_CDN = "https://cdn.jsdelivr.net/npm/chart.js@4.4.3/dist/chart.umd.min.js"
+
+_CHART_BLOCK_RE = re.compile(r"```chart[ \t]*\n(.*?)```", re.DOTALL)
+
+
+def _chart_style(name: str) -> tuple[str, bool]:
+    if "乐观" in name:
+        return "#1a7f37", True
+    if "悲观" in name:
+        return "#cf222e", True
+    if "中性" in name:
+        return "#9a6700", True
+    if "历史" in name or "实际" in name:
+        return "#0969da", False
+    return "#8250df", False
+
+
+def parse_chart_spec(spec: str) -> dict | None:
+    """Parse a ```chart block: `title:` line, `x:` labels, then `系列名: v1, v2` lines ("-" = no data)."""
+    title = ""
+    labels: list[str] = []
+    series: list[tuple[str, list[float | None]]] = []
+    for raw in spec.strip().splitlines():
+        line = raw.strip()
+        if not line or ":" not in line:
+            continue
+        key, _, value = line.partition(":")
+        key, value = key.strip(), value.strip()
+        if key == "title":
+            title = value
+        elif key == "x":
+            labels = [v.strip() for v in value.split(",")]
+        elif value:
+            points: list[float | None] = []
+            for v in value.split(","):
+                v = v.strip()
+                points.append(None if v in ("", "-", "null", "None") else float(v))
+            series.append((key, points))
+    if not labels or not series:
+        return None
+    return {"title": title, "labels": labels, "series": series}
+
+
+def render_chart(chart: dict, index: int) -> str:
+    datasets = []
+    for name, points in chart["series"]:
+        color, dashed = _chart_style(name)
+        datasets.append(
+            {
+                "label": name,
+                "data": points,
+                "borderColor": color,
+                "backgroundColor": color,
+                "tension": 0.25,
+                "spanGaps": True,
+                "pointRadius": 3,
+                "borderWidth": 2.2,
+                "borderDash": [6, 3] if dashed else [],
+            }
+        )
+    config = {
+        "type": "line",
+        "data": {"labels": chart["labels"], "datasets": datasets},
+        "options": {
+            "responsive": True,
+            "maintainAspectRatio": False,
+            "plugins": {
+                "legend": {"position": "bottom"},
+                "title": {"display": bool(chart["title"]), "text": chart["title"]},
+            },
+        },
+    }
+    return (
+        f'<div class="chart-box"><canvas id="chart-{index}"></canvas></div>\n'
+        f'<script>new Chart(document.getElementById("chart-{index}"), '
+        f"{json.dumps(config, ensure_ascii=False)});</script>"
+    )
+
+
+def extract_charts(text: str) -> tuple[str, list[dict]]:
+    """Replace ```chart blocks with placeholders; unparsable blocks stay as code blocks."""
+    charts: list[dict] = []
+
+    def repl(match: re.Match) -> str:
+        chart = parse_chart_spec(match.group(1))
+        if chart is None:
+            return match.group(0)
+        charts.append(chart)
+        return f'<div data-chart-block="{len(charts) - 1}"></div>'
+
+    return _CHART_BLOCK_RE.sub(repl, text), charts
+
+
+def convert_markdown_file(md: markdown.Markdown, md_file: Path) -> tuple[str, str, bool]:
     text = md_file.read_text(encoding="utf-8")
     first_line = text.strip().splitlines()[0] if text.strip() else ""
     title = re.sub(r"^#+\s*", "", first_line).strip() or md_file.stem
+    text, charts = extract_charts(text)
     md.reset()
-    return title, rewrite_md_links(md.convert(text))
+    body_html = md.convert(text)
+    for i, chart in enumerate(charts):
+        body_html = body_html.replace(f'<div data-chart-block="{i}"></div>', render_chart(chart, i))
+    return title, rewrite_md_links(body_html), bool(charts)
 
 
 def extract_rating(md_file: Path) -> str | None:
@@ -179,7 +279,7 @@ def build_report_pages(md: markdown.Markdown) -> list[tuple[str, list[tuple[str,
         stock = stock_dir.name
         entries = []
         for md_file in sorted(stock_dir.glob("*.md")):
-            title, body_html = convert_markdown_file(md, md_file)
+            title, body_html, has_charts = convert_markdown_file(md, md_file)
             out_dir = SITE_DIR / "reports" / stock
             out_dir.mkdir(parents=True, exist_ok=True)
             (out_dir / f"{md_file.stem}.html").write_text(
@@ -187,6 +287,7 @@ def build_report_pages(md: markdown.Markdown) -> list[tuple[str, list[tuple[str,
                     title,
                     body_html,
                     '<a href="../index.html">&larr; 个股分析报告</a> &nbsp;·&nbsp; <a href="../../index.html">首页</a>',
+                    has_charts,
                 ),
                 encoding="utf-8",
             )
@@ -204,6 +305,7 @@ def build_select_pages(md: markdown.Markdown) -> list[tuple[str, str]]:
         text = md_file.read_text(encoding="utf-8")
         first_line = text.strip().splitlines()[0] if text.strip() else ""
         title = re.sub(r"^#+\s*", "", first_line).strip() or md_file.stem
+        text, charts = extract_charts(text)
         if "选股结果分类" in title:
             lines = text.splitlines()
             head_end = 1
@@ -217,6 +319,8 @@ def build_select_pages(md: markdown.Markdown) -> list[tuple[str, str]]:
         else:
             md.reset()
             body_html = md.convert(text)
+        for i, chart in enumerate(charts):
+            body_html = body_html.replace(f'<div data-chart-block="{i}"></div>', render_chart(chart, i))
         body_html = rewrite_md_links(body_html)
         out_dir = SITE_DIR / "select"
         out_dir.mkdir(parents=True, exist_ok=True)
@@ -226,6 +330,7 @@ def build_select_pages(md: markdown.Markdown) -> list[tuple[str, str]]:
                 title,
                 body_html,
                 '<a href="index.html">&larr; 选股结果</a> &nbsp;·&nbsp; <a href="../index.html">首页</a>',
+                bool(charts),
             ),
             encoding="utf-8",
         )
@@ -239,7 +344,7 @@ def build_restructuring_pages(md: markdown.Markdown) -> list[tuple[str, str]]:
     if not RESTRUCTURING_DIR.is_dir():
         return entries
     for md_file in sorted(RESTRUCTURING_DIR.glob("*.md")):
-        title, body_html = convert_markdown_file(md, md_file)
+        title, body_html, has_charts = convert_markdown_file(md, md_file)
         out_dir = SITE_DIR / "restructuring"
         out_dir.mkdir(parents=True, exist_ok=True)
         (out_dir / f"{md_file.stem}.html").write_text(
@@ -247,6 +352,7 @@ def build_restructuring_pages(md: markdown.Markdown) -> list[tuple[str, str]]:
                 title,
                 body_html,
                 '<a href="index.html">&larr; 重大资产重组观察组</a> &nbsp;·&nbsp; <a href="../index.html">首页</a>',
+                has_charts,
             ),
             encoding="utf-8",
         )
