@@ -2,10 +2,11 @@
 """Build the FindingGrowthStocks static site from markdown reports.
 
 Site hierarchy:
-  index.html            — hub linking to the three second-level sections
+  index.html            — hub linking to the four second-level sections
   reports/index.html    — all stock analysis reports, grouped by stock
   restructuring/index.html — restructuring watch lists + per-stock info reports
   select/index.html     — stock screen results
+  q3/index.html         — quarterly earnings tracking (三季报跟踪)
 """
 import html
 import json
@@ -18,6 +19,7 @@ ROOT = Path(__file__).resolve().parent
 REPORTS_DIR = ROOT / "reports"
 SELECT_DIR = ROOT / "select"
 RESTRUCTURING_DIR = ROOT / "restructuring"
+Q3_DIR = ROOT / "q3"
 SITE_DIR = ROOT / "_site"
 
 PAGE_CSS = """
@@ -338,6 +340,28 @@ def build_select_pages(md: markdown.Markdown) -> list[tuple[str, str]]:
     return entries
 
 
+def build_q3_pages(md: markdown.Markdown) -> list[tuple[str, str]]:
+    """Render q3/<file>.html; return [(title, href)]."""
+    entries: list[tuple[str, str]] = []
+    if not Q3_DIR.is_dir():
+        return entries
+    for md_file in sorted(Q3_DIR.glob("*.md")):
+        title, body_html, has_charts = convert_markdown_file(md, md_file)
+        out_dir = SITE_DIR / "q3"
+        out_dir.mkdir(parents=True, exist_ok=True)
+        (out_dir / f"{md_file.stem}.html").write_text(
+            render_page(
+                title,
+                body_html,
+                '<a href="index.html">&larr; 三季报跟踪</a> &nbsp;·&nbsp; <a href="../index.html">首页</a>',
+                has_charts,
+            ),
+            encoding="utf-8",
+        )
+        entries.append((title, f"{md_file.stem}.html"))
+    return entries
+
+
 def build_restructuring_pages(md: markdown.Markdown) -> list[tuple[str, str]]:
     """Render restructuring/<file>.html; return [(title, href)]."""
     entries: list[tuple[str, str]] = []
@@ -364,6 +388,7 @@ def build_section_pages(
     groups: list[tuple[str, list[tuple[str, str, str | None]]]],
     select_entries: list[tuple[str, str]],
     restructuring_entries: list[tuple[str, str]],
+    q3_entries: list[tuple[str, str]],
 ) -> None:
     # 个股分析报告
     sections = ['<p class="nav"><a href="../index.html">&larr; 首页</a></p>', "<h1>个股分析报告</h1>"]
@@ -410,14 +435,32 @@ def build_section_pages(
     select_dir.mkdir(parents=True, exist_ok=True)
     (select_dir / "index.html").write_text(render_index_page("选股结果", "\n".join(sections)), encoding="utf-8")
 
+    # 三季报跟踪
+    sections = ['<p class="nav"><a href="../index.html">&larr; 首页</a></p>', "<h1>三季报跟踪</h1>"]
+    sections.append("<p>财报季业绩预告 / 快报 / 定期报告的甄别与跟踪：表格标注业绩情况、Q3 单季环比与同比，并链接按财报四步框架生成的分析报告。</p>")
+    sections.append('<ul class="report-list">')
+    for title, href in q3_entries:
+        sections.append(f'<li><a href="{html.escape(href)}">{html.escape(title)}</a></li>')
+    sections.append("</ul>")
+    q3_dir = SITE_DIR / "q3"
+    q3_dir.mkdir(parents=True, exist_ok=True)
+    (q3_dir / "index.html").write_text(render_index_page("三季报跟踪", "\n".join(sections)), encoding="utf-8")
+
 
 def build_home_page(
     groups: list[tuple[str, list[tuple[str, str, str | None]]]],
     select_entries: list[tuple[str, str]],
     restructuring_entries: list[tuple[str, str]],
+    q3_entries: list[tuple[str, str]],
 ) -> None:
     total_reports = sum(len(entries) for _, entries in groups)
     cards = [
+        (
+            "q3/index.html",
+            "三季报跟踪",
+            "财报季业绩预告与报告甄别：表格标注业绩情况 / 季度环比 / 同比，链接按财报四步框架（搞懂生意 → 会计分析 → 核心指标 → 贴标签）生成的分析报告。",
+            f"{len(q3_entries)} 期跟踪",
+        ),
         (
             "reports/index.html",
             "个股分析报告",
@@ -473,14 +516,15 @@ def main() -> None:
     groups = build_report_pages(md)
     select_entries = build_select_pages(md)
     restructuring_entries = build_restructuring_pages(md)
-    build_section_pages(groups, select_entries, restructuring_entries)
-    build_home_page(groups, select_entries, restructuring_entries)
+    q3_entries = build_q3_pages(md)
+    build_section_pages(groups, select_entries, restructuring_entries, q3_entries)
+    build_home_page(groups, select_entries, restructuring_entries, q3_entries)
 
     total_reports = sum(len(entries) for _, entries in groups)
     print(
         f"Built {len(groups)} stock groups ({total_reports} reports), "
         f"{len(select_entries)} select files, {len(restructuring_entries)} restructuring reports, "
-        f"4 index pages into {SITE_DIR}"
+        f"{len(q3_entries)} q3 tracking pages, 5 index pages into {SITE_DIR}"
     )
 
 
