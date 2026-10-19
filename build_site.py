@@ -30,18 +30,22 @@ h2 { font-size: 1.3rem; margin: 1.5rem 0 0.8rem; padding-bottom: 0.3rem; border-
 h3 { font-size: 1.1rem; margin: 1.2rem 0 0.6rem; }
 p { margin: 0.6rem 0; }
 table { border-collapse: collapse; width: 100%; max-width: 100%; margin: 1rem 0; font-size: 0.92rem; }
-th, td { border: 1px solid #d0d7de; padding: 0.45rem 0.6rem; text-align: left; white-space: normal; overflow-wrap: anywhere; word-break: break-word; vertical-align: top; }
+th, td { border: 1px solid #d0d7de; padding: 0.45rem 0.6rem; text-align: left; white-space: normal; overflow-wrap: break-word; vertical-align: top; }
 th { background: #f6f8fa; font-weight: 600; }
 tr:nth-child(even) { background: #f6f8fa; }
+table.tracking th:nth-child(1), table.tracking td:nth-child(1),
+table.tracking th:nth-child(2), table.tracking td:nth-child(2),
+table.tracking th:nth-last-child(2), table.tracking td:nth-last-child(2),
+table.tracking th:last-child, table.tracking td:last-child { white-space: nowrap; }
 @media (max-width: 720px) {
   body { padding: 1rem 0.75rem; }
-  table { display: block; border-collapse: separate; margin: 0.75rem 0; font-size: 0.9rem; }
+  table { display: block; margin: 0.75rem 0; font-size: 0.9rem; }
   thead { display: none; }
   tbody { display: block; }
-  tr { display: block; border: 1px solid #d0d7de; border-radius: 8px; margin: 0 0 0.75rem; padding: 0.35rem 0.55rem; background: #fff !important; }
-  td { display: flex; gap: 0.5rem; border: none; border-bottom: 1px dashed #d8dee4; padding: 0.35rem 0.1rem; }
+  tr { display: block; border: 1px solid #d0d7de; border-radius: 8px; margin: 0 0 0.75rem; padding: 0.4rem 0.6rem; background: #fff !important; }
+  td { display: block; border: none; border-bottom: 1px dashed #d8dee4; padding: 0.35rem 0.1rem; }
   td:last-child { border-bottom: none; }
-  td::before { content: attr(data-label); flex: 0 0 4.6rem; font-weight: 600; color: #57606a; font-size: 0.86rem; }
+  td::before { content: attr(data-label) "："; font-weight: 600; color: #57606a; font-size: 0.86rem; }
   td:not([data-label])::before { content: none; }
 }
 blockquote { border-left: 3px solid #d0d7de; padding-left: 1rem; color: #656d76; margin: 1rem 0; }
@@ -402,6 +406,7 @@ def build_q3_pages(md: markdown.Markdown) -> list[tuple[str, str]]:
         return entries
     for md_file in sorted(Q3_DIR.glob("*.md")):
         title, body_html, has_charts = convert_markdown_file(md, md_file)
+        body_html = body_html.replace("<table>", '<table class="tracking">', 1)
         out_dir = SITE_DIR / "q3"
         out_dir.mkdir(parents=True, exist_ok=True)
         (out_dir / f"{md_file.stem}.html").write_text(
