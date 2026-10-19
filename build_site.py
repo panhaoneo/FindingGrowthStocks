@@ -29,10 +29,21 @@ h1 { font-size: 1.6rem; border-bottom: 1px solid #d0d7de; padding-bottom: 0.5rem
 h2 { font-size: 1.3rem; margin: 1.5rem 0 0.8rem; padding-bottom: 0.3rem; border-bottom: 1px solid #d0d7de; }
 h3 { font-size: 1.1rem; margin: 1.2rem 0 0.6rem; }
 p { margin: 0.6rem 0; }
-table { border-collapse: collapse; width: 100%; margin: 1rem 0; display: block; overflow-x: auto; }
-th, td { border: 1px solid #d0d7de; padding: 0.5rem 0.75rem; text-align: left; white-space: nowrap; }
+table { border-collapse: collapse; width: 100%; max-width: 100%; margin: 1rem 0; font-size: 0.92rem; }
+th, td { border: 1px solid #d0d7de; padding: 0.45rem 0.6rem; text-align: left; white-space: normal; overflow-wrap: anywhere; word-break: break-word; vertical-align: top; }
 th { background: #f6f8fa; font-weight: 600; }
 tr:nth-child(even) { background: #f6f8fa; }
+@media (max-width: 720px) {
+  body { padding: 1rem 0.75rem; }
+  table { display: block; border-collapse: separate; margin: 0.75rem 0; font-size: 0.9rem; }
+  thead { display: none; }
+  tbody { display: block; }
+  tr { display: block; border: 1px solid #d0d7de; border-radius: 8px; margin: 0 0 0.75rem; padding: 0.35rem 0.55rem; background: #fff !important; }
+  td { display: flex; gap: 0.5rem; border: none; border-bottom: 1px dashed #d8dee4; padding: 0.35rem 0.1rem; }
+  td:last-child { border-bottom: none; }
+  td::before { content: attr(data-label); flex: 0 0 4.6rem; font-weight: 600; color: #57606a; font-size: 0.86rem; }
+  td:not([data-label])::before { content: none; }
+}
 blockquote { border-left: 3px solid #d0d7de; padding-left: 1rem; color: #656d76; margin: 1rem 0; }
 code { background: #f6f8fa; padding: 0.15rem 0.3rem; border-radius: 3px; font-size: 0.9em; }
 a { color: #0969da; text-decoration: none; }
@@ -249,6 +260,49 @@ def extract_charts(text: str) -> tuple[str, list[dict]]:
     return _CHART_BLOCK_RE.sub(repl, text), charts
 
 
+_TABLE_BLOCK_RE = re.compile(r"<table>(.*?)</table>", re.DOTALL)
+_THEAD_RE = re.compile(r"<thead>.*?</thead>", re.DOTALL)
+_TROW_RE = re.compile(r"<tr>(.*?)</tr>", re.DOTALL)
+_TH_CELL_RE = re.compile(r"<th[^>]*>(.*?)</th>", re.DOTALL)
+_TD_OPEN_RE = re.compile(r"<td([^>]*)>")
+_TAG_STRIP_RE = re.compile(r"<[^>]+>")
+
+
+def add_table_labels(body_html: str) -> str:
+    """Inject data-label so mobile cards can show the column header per cell."""
+    def fix_table(match: re.Match) -> str:
+        table = match.group(0)
+        thead = _THEAD_RE.search(table)
+        if not thead:
+            return table
+        headers = [
+            html.unescape(_TAG_STRIP_RE.sub("", cell)).strip()
+            for cell in _TH_CELL_RE.findall(thead.group(0))
+        ]
+        if not headers:
+            return table
+
+        def fix_row(row_match: re.Match) -> str:
+            row = row_match.group(0)
+            if "<th" in row:
+                return row
+            counter = {"i": 0}
+
+            def fix_cell(cell_match: re.Match) -> str:
+                attrs = cell_match.group(1)
+                i = counter["i"]
+                counter["i"] += 1
+                if i >= len(headers) or not headers[i]:
+                    return cell_match.group(0)
+                return f'<td{attrs} data-label="{html.escape(headers[i], quote=True)}">'
+
+            return _TD_OPEN_RE.sub(fix_cell, row)
+
+        return _TROW_RE.sub(fix_row, table)
+
+    return _TABLE_BLOCK_RE.sub(fix_table, body_html)
+
+
 def convert_markdown_file(md: markdown.Markdown, md_file: Path) -> tuple[str, str, bool]:
     text = md_file.read_text(encoding="utf-8")
     first_line = text.strip().splitlines()[0] if text.strip() else ""
@@ -258,6 +312,7 @@ def convert_markdown_file(md: markdown.Markdown, md_file: Path) -> tuple[str, st
     body_html = md.convert(text)
     for i, chart in enumerate(charts):
         body_html = body_html.replace(f'<div data-chart-block="{i}"></div>', render_chart(chart, i))
+    body_html = add_table_labels(body_html)
     return title, rewrite_md_links(body_html), bool(charts)
 
 
@@ -323,7 +378,7 @@ def build_select_pages(md: markdown.Markdown) -> list[tuple[str, str]]:
             body_html = md.convert(text)
         for i, chart in enumerate(charts):
             body_html = body_html.replace(f'<div data-chart-block="{i}"></div>', render_chart(chart, i))
-        body_html = rewrite_md_links(body_html)
+        body_html = add_table_labels(rewrite_md_links(body_html))
         out_dir = SITE_DIR / "select"
         out_dir.mkdir(parents=True, exist_ok=True)
         out_file = out_dir / f"{md_file.stem}.html"
